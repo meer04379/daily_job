@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Job - Daily Job Updates & Career Opportunities</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Top Announcement Bar -->
+  <div class="announcement-bar">
+    <div class="container marquee-wrap">
+      <span class="badge"><i class="fa-solid fa-bolt"></i> NEW</span>
+      <p>Today's Fresh Updates: <strong>140+ New Jobs</strong> added in Tech, Govt, Remote, and Marketing domains!</p>
+      <a href="#jobs" class="bar-link">Explore Now &rarr;</a>
+    </div>
+  </div>
+
+  <!-- Header / Navigation -->
+  <header class="navbar">
+    <div class="container nav-container">
+      <a href="#" class="logo">
+        <span class="logo-icon"><i class="fa-solid fa-briefcase"></i></span>
+        <span class="logo-text">Daily<span>Job</span></span>
+      </a>
+
+      <nav class="nav-links">
+        <a href="#home" class="active">Home</a>
+        <a href="#jobs">Latest Jobs</a>
+        <a href="#categories">Categories</a>
+        <a href="#govt-jobs">Govt Updates</a>
+        <a href="#newsletter">Alerts</a>
+      </nav>
+
+      <div class="nav-actions">
+        <button class="btn btn-outline" id="postJobBtn"><i class="fa-solid fa-plus"></i> Post a Job</button>
+        <button class="btn btn-primary"><i class="fa-solid fa-bell"></i> Get Daily Alerts</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero" id="home">
+    <div class="hero-glow glow-1"></div>
+    <div class="hero-glow glow-2"></div>
+    <div class="container hero-container">
+      <div class="hero-badge">
+        <i class="fa-regular fa-clock"></i> Updated 10 minutes ago
+      </div>
+      <h1 class="hero-title">
+        Apka Har Din Ka Job Partner <br>
+        Find <span>Today's Verified</span> Jobs
+      </h1>
+      <p class="hero-subtitle">
+        Daily Job par paayein taza tareen private, government aur remote jobs ki updates sabse pehle. Verified vacancies, accurate salary info aur direct apply link.
+      </p>
+
+      <!-- Search & Filter Box -->
+      <div class="search-box">
+        <div class="search-field">
+          <i class="fa-solid fa-magnifying-glass field-icon"></i>
+          <input type="text" id="searchInput" placeholder="Job title, skill (e.g. Frontend, Data Entry, Manager)...">
+        </div>
+        <div class="search-divider"></div>
+        <div class="search-field">
+          <i class="fa-solid fa-location-dot field-icon"></i>
+          <input type="text" id="locationInput" placeholder="Location or Remote">
+        </div>
+        <div class="search-divider"></div>
+        <div class="search-field category-select">
+          <i class="fa-solid fa-layer-group field-icon"></i>
+          <select id="categorySelect">
+            <option value="all">All Categories</option>
+            <option value="tech">Software & IT</option>
+            <option value="govt">Government Jobs</option>
+            <option value="remote">Work From Home / Remote</option>
+            <option value="finance">Banking & Finance</option>
+            <option value="marketing">Sales & Marketing</option>
+          </select>
+        </div>
+        <button class="btn btn-primary search-btn" id="searchBtn">
+          <i class="fa-solid fa-bolt"></i> Find Jobs
+        </button>
+      </div>
+
+      <!-- Quick Stats -->
+      <div class="hero-stats">
+        <div class="stat-item">
+          <h3>2,500+</h3>
+          <p>Active Jobs Today</p>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <h3>980+</h3>
+          <p>Verified Companies</p>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <h3>100%</h3>
+          <p>Daily Fresh Listings</p>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <h3>50K+</h3>
+          <p>Job Seekers Alerted</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Popular Categories -->
+  <section class="section categories-section" id="categories">
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <span class="sub-heading">Browse By Sector</span>
+          <h2 class="section-title">Popular Job Categories</h2>
+        </div>
+        <a href="#jobs" class="view-all-link">View All Categories &rarr;</a>
+      </div>
+
+      <div class="category-grid">
+        <div class="category-card" data-cat="tech">
+          <div class="cat-icon cat-tech"><i class="fa-solid fa-laptop-code"></i></div>
+          <div class="cat-info">
+            <h3>Software & Tech</h3>
+            <p>420+ Jobs Today</p>
+          </div>
+          <span class="cat-arrow">&rarr;</span>
+        </div>
+
+        <div class="category-card" data-cat="govt">
+          <div class="cat-icon cat-govt"><i class="fa-solid fa-building-columns"></i></div>
+          <div class="cat-info">
+            <h3>Government & PSU</h3>
+            <p>180+ Active Vacancies</p>
+          </div>
+          <span class="cat-arrow">&rarr;</span>
+        </div>
+
+        <div class="category-card" data-cat="remote">
+          <div class="cat-icon cat-remote"><i class="fa-solid fa-house-laptop"></i></div>
+          <div class="cat-info">
+            <h3>Remote / Work From Home</h3>
+            <p>310+ Flexible Jobs</p>
+          </div>
+          <span class="cat-arrow">&rarr;</span>
+        </div>
+
+        <div class="category-card" data-cat="marketing">
+          <div class="cat-icon cat-mkt"><i class="fa-solid fa-bullhorn"></i></div>
+          <div class="cat-info">
+            <h3>Marketing & Sales</h3>
+            <p>150+ Vacancies</p>
+          </div>
+          <span class="cat-arrow">&rarr;</span>
+        </div>
+
+        <div class="category-card" data-cat="finance">
+          <div class="cat-icon cat-finance"><i class="fa-solid fa-chart-line"></i></div>
+          <div class="cat-info">
+            <h3>Banking & Finance</h3>
+            <p>95+ Open Roles</p>
+          </div>
+          <span class="cat-arrow">&rarr;</span>
+        </div>
+
+        <div class="category-card" data-cat="design">
+          <div class="cat-icon cat-design"><i class="fa-solid fa-palette"></i></div>
+          <div class="cat-info">
+            <h3>Design & Creative</h3>
+            <p>75+ Open Roles</p>
+          </div>
+          <span class="cat-arrow">&rarr;</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Jobs Feed Section -->
+  <section class="section jobs-section" id="jobs">
+    <div class="container">
+      <div class="jobs-layout-header">
+        <div>
+          <span class="sub-heading">Live Feed</span>
+          <h2 class="section-title">Today's Fresh Job Openings</h2>
+          <p class="section-desc">Updated dynamically everyday. Apply directly without any consultancy fees.</p>
+        </div>
+
+        <!-- Filter Pills -->
+        <div class="filter-pills">
+          <button class="pill active" data-filter="all">All Jobs</button>
+          <button class="pill" data-filter="tech">Tech & IT</button>
+          <button class="pill" data-filter="govt">Govt Jobs</button>
+          <button class="pill" data-filter="remote">Remote Only</button>
+          <button class="pill" data-filter="urgenthiring"><i class="fa-solid fa-fire text-danger"></i> Urgent Hiring</button>
+        </div>
+      </div>
+
+      <!-- Job Cards Container -->
+      <div class="job-list" id="jobList">
+        <!-- Job 1 -->
+        <div class="job-card" data-category="tech" data-type="remote urgenthiring">
+          <div class="job-card-header">
+            <div class="company-badge-wrap">
+              <div class="company-logo logo-google"><i class="fa-brands fa-google"></i></div>
+              <div>
+                <h3 class="job-role">Senior Frontend React Developer</h3>
+                <p class="company-name">TechPulse Labs <span class="verified-tick"><i class="fa-solid fa-circle-check"></i> Verified</span></p>
+              </div>
+            </div>
+            <span class="tag-status urgent">Urgent Hiring</span>
+          </div>
+
+          <div class="job-meta-grid">
+            <div class="meta-item"><i class="fa-solid fa-location-dot"></i> Remote / Bangalore</div>
+            <div class="meta-item"><i class="fa-solid fa-briefcase"></i> Full Time (2-5 Yrs)</div>
+            <div class="meta-item"><i class="fa-solid fa-money-bill-wave"></i> $35k - $55k / ₹18-24 LPA</div>
+            <div class="meta-item time-tag"><i class="fa-regular fa-clock"></i> 25 mins ago</div>
+          </div>
+
+          <div class="job-skills">
+            <span class="skill-tag">React.js</span>
+            <span class="skill-tag">TypeScript</span>
+            <span class="skill-tag">Tailwind CSS</span>
+            <span class="skill-tag">Next.js</span>
+          </div>
+
+          <div class="job-card-footer">
+            <span class="applied-count"><i class="fa-solid fa-user-group"></i> 14 applicants today</span>
+            <button class="btn btn-apply" onclick="openApplyModal('Senior Frontend React Developer', 'TechPulse Labs')">Apply Now <i class="fa-solid fa-arrow-up-right-from-square"></i></button>
+          </div>
+        </div>
+
+        <!-- Job 2 -->
+        <div class="job-card" data-category="govt" data-type="govt urgenthiring">
+          <div class="job-card-header">
+            <div class="company-badge-wrap">
+              <div class="company-logo logo-govt"><i class="fa-solid fa-landmark"></i></div>
+              <div>
+                <h3 class="job-role">Assistant Section Officer (Grade-B)</h3>
+                <p class="company-name">Staff Selection Commission (Govt) <span class="verified-tick"><i class="fa-solid fa-circle-check"></i> Official</span></p>
+              </div>
+            </div>
+            <span class="tag-status govt-badge">Govt Exam Alert</span>
+          </div>
+
+          <div class="job-meta-grid">
+            <div class="meta-item"><i class="fa-solid fa-location-dot"></i> Pan India / New Delhi</div>
+            <div class="meta-item"><i class="fa-solid fa-graduation-cap"></i> Graduate (Any Stream)</div>
+            <div class="meta-item"><i class="fa-solid fa-money-bill-wave"></i> Pay Level 7 (₹44,900 - ₹1,42,400)</div>
+            <div class="meta-item time-tag"><i class="fa-regular fa-clock"></i> 1 hour ago</div>
+          </div>
+
+          <div class="job-skills">
+            <span class="skill-tag">SSC CGL</span>
+            <span class="skill-tag">Official Notification</span>
+            <span class="skill-tag">Admit Card Soon</span>
+          </div>
+
+          <div class="job-card-footer">
+            <span class="applied-count text-danger"><i class="fa-solid fa-stopwatch"></i> Last Date: 28th Nov</span>
+            <button class="btn btn-apply" onclick="openApplyModal('Assistant Section Officer', 'Govt Commission')">View Notification <i class="fa-solid fa-file-pdf"></i></button>
+          </div>
+        </div>
+
+        <!-- Job 3 -->
+        <div class="job-card" data-category="remote" data-type="remote">
+          <div class="job-card-header">
+            <div class="company-badge-wrap">
+              <div class="company-logo logo-shopify"><i class="fa-brands fa-shopify"></i></div>
+              <div>
+                <h3 class="job-role">Content Writer & SEO Specialist</h3>
+                <p class="company-name">GrowthWave Digital <span class="verified-tick"><i class="fa-solid fa-circle-check"></i> Verified</span></p>
+              </div>
+            </div>
+            <span class="tag-status remote-badge">100% Remote</span>
+          </div>
+
+          <div class="job-meta-grid">
+            <div class="meta-item"><i class="fa-solid fa-globe"></i> Anywhere (Worldwide)</div>
+            <div class="meta-item"><i class="fa-solid fa-briefcase"></i> Full Time / Freelance</div>
+            <div class="meta-item"><i class="fa-solid fa-money-bill-wave"></i> ₹45,000 - ₹70,000 / month</div>
+            <div class="meta-item time-tag"><i class="fa-regular fa-clock"></i> 2 hours ago</div>
+          </div>
+
+          <div class="job-skills">
+            <span class="skill-tag">SEO Content</span>
+            <span class="skill-tag">WordPress</span>
+            <span class="skill-tag">Keyword Research</span>
+            <span class="skill-tag">Copywriting</span>
+          </div>
+
+          <div class="job-card-footer">
+            <span class="applied-count"><i class="fa-solid fa-user-group"></i> 28 applicants</span>
+            <button class="btn btn-apply" onclick="openApplyModal('Content Writer & SEO Specialist', 'GrowthWave Digital')">Apply Now <i class="fa-solid fa-arrow-up-right-from-square"></i></button>
+          </div>
+        </div>
+
+        <!-- Job 4 -->
+        <div class="job-card" data-category="tech" data-type="tech">
+          <div class="job-card-header">
+            <div class="company-badge-wrap">
+              <div class="company-logo logo-aws"><i class="fa-brands fa-aws"></i></div>
+              <div>
+                <h3 class="job-role">DevOps & Cloud Engineer (AWS / Kubernetes)</h3>
+                <p class="company-name">NovaScale Solutions <span class="verified-tick"><i class="fa-solid fa-circle-check"></i> Verified</span></p>
+              </div>
+            </div>
+            <span class="tag-status new-badge">Today Special</span>
+          </div>
+
+          <div class="job-meta-grid">
+            <div class="meta-item"><i class="fa-solid fa-location-dot"></i> Hyderabad / Pune (Hybrid)</div>
+            <div class="meta-item"><i class="fa-solid fa-briefcase"></i> 3+ Years Exp</div>
+            <div class="meta-item"><i class="fa-solid fa-money-bill-wave"></i> ₹16 - ₹22 LPA</div>
+            <div class="meta-item time-tag"><i class="fa-regular fa-clock"></i> 3 hours ago</div>
+          </div>
+
+          <div class="job-skills">
+            <span class="skill-tag">AWS</span>
+            <span class="skill-tag">Docker</span>
+            <span class="skill-tag">Kubernetes</span>
+            <span class="skill-tag">CI/CD Pipelines</span>
+          </div>
+
+          <div class="job-card-footer">
+            <span class="applied-count"><i class="fa-solid fa-user-group"></i> 19 applicants</span>
+            <button class="btn btn-apply" onclick="openApplyModal('DevOps & Cloud Engineer', 'NovaScale Solutions')">Apply Now <i class="fa-solid fa-arrow-up-right-from-square"></i></button>
+          </div>
+        </div>
+
+        <!-- Job 5 -->
+        <div class="job-card" data-category="marketing" data-type="urgenthiring">
+          <div class="job-card-header">
+            <div class="company-badge-wrap">
+              <div class="company-logo logo-sales"><i class="fa-solid fa-chart-pie"></i></div>
+              <div>
+                <h3 class="job-role">Digital Marketing Executive & Meta Ads Lead</h3>
+                <p class="company-name">Zenith Brand Lab <span class="verified-tick"><i class="fa-solid fa-circle-check"></i> Verified</span></p>
+              </div>
+            </div>
+            <span class="tag-status urgent">Urgent</span>
+          </div>
+
+          <div class="job-meta-grid">
+            <div class="meta-item"><i class="fa-solid fa-location-dot"></i> Mumbai (Andheri)</div>
+            <div class="meta-item"><i class="fa-solid fa-briefcase"></i> 1-3 Years Experience</div>
+            <div class="meta-item"><i class="fa-solid fa-money-bill-wave"></i> ₹35,000 - ₹50,000 / month</div>
+            <div class="meta-item time-tag"><i class="fa-regular fa-clock"></i> 4 hours ago</div>
+          </div>
+
+          <div class="job-skills">
+            <span class="skill-tag">Meta Ads</span>
+            <span class="skill-tag">Google Analytics</span>
+            <span class="skill-tag">ROI Optimization</span>
+          </div>
+
+          <div class="job-card-footer">
+            <span class="applied-count"><i class="fa-solid fa-user-group"></i> 32 applicants</span>
+            <button class="btn btn-apply" onclick="openApplyModal('Digital Marketing Executive', 'Zenith Brand Lab')">Apply Now <i class="fa-solid fa-arrow-up-right-from-square"></i></button>
+          </div>
+        </div>
+
+        <!-- Job 6 -->
+        <div class="job-card" data-category="govt" data-type="govt">
+          <div class="job-card-header">
+            <div class="company-badge-wrap">
+              <div class="company-logo logo-rail"><i class="fa-solid fa-train"></i></div>
+              <div>
+                <h3 class="job-role">Junior Engineer (Civil / Electrical)</h3>
+                <p class="company-name">Railway Recruitment Board (RRB) <span class="verified-tick"><i class="fa-solid fa-circle-check"></i> Official</span></p>
+              </div>
+            </div>
+            <span class="tag-status govt-badge">Govt Opening</span>
+          </div>
+
+          <div class="job-meta-grid">
+            <div class="meta-item"><i class="fa-solid fa-location-dot"></i> All India Zones</div>
+            <div class="meta-item"><i class="fa-solid fa-graduation-cap"></i> Diploma / B.Tech</div>
+            <div class="meta-item"><i class="fa-solid fa-money-bill-wave"></i> Level 6 Pay Matrix</div>
+            <div class="meta-item time-tag"><i class="fa-regular fa-clock"></i> 5 hours ago</div>
+          </div>
+
+          <div class="job-skills">
+            <span class="skill-tag">RRB JE 2026</span>
+            <span class="skill-tag">Diploma Engineers</span>
+            <span class="skill-tag">Technical Posts</span>
+          </div>
+
+          <div class="job-card-footer">
+            <span class="applied-count text-danger"><i class="fa-solid fa-stopwatch"></i> Deadline: Next Week</span>
+            <button class="btn btn-apply" onclick="openApplyModal('RRB Junior Engineer', 'Railway Board')">View Details <i class="fa-solid fa-arrow-up-right-from-square"></i></button>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="load-more-box">
+        <button class="btn btn-outline-large" id="loadMoreBtn">
+          <i class="fa-solid fa-arrows-rotate"></i> Load More Today's Jobs (45+)
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Govt & Competitive Exam Updates Banner -->
+  <section class="section govt-section" id="govt-jobs">
+    <div class="container">
+      <div class="govt-card">
+        <div class="govt-content">
+          <span class="badge-govt-red"><i class="fa-solid fa-bullhorn"></i> Daily Govt Bulletin</span>
+          <h2>Sarkari Naukri & Admit Card Updates</h2>
+          <p>Rozana SSC, UPSC, Banking (IBPS/SBI), Railways, Police aur State PSC ki nayi bhartiyaan aur result notifications ek hi jagah paayein.</p>
+          <ul class="govt-list">
+            <li><i class="fa-solid fa-check"></i> Direct Official Notification PDF Links</li>
+            <li><i class="fa-solid fa-check"></i> Eligibility Criteria, Syllabus & Exam Dates</li>
+            <li><i class="fa-solid fa-check"></i> Free Real-time WhatsApp & Email Alerts</li>
+          </ul>
+          <div class="govt-actions">
+            <button class="btn btn-govt-primary" onclick="alert('WhatsApp Alert Group Join link will open!')"><i class="fa-brands fa-whatsapp"></i> Join WhatsApp Group</button>
+            <button class="btn btn-govt-secondary" onclick="alert('Telegram Channel Link!')"><i class="fa-brands fa-telegram"></i> Join Telegram Channel</button>
+          </div>
+        </div>
+        <div class="govt-visual">
+          <div class="bulletin-board">
+            <div class="bulletin-header">
+              <i class="fa-solid fa-bell"></i> Live Notice Board
+            </div>
+            <div class="notice-item">
+              <span class="dot green"></span>
+              <div>
+                <strong>SBI PO 2026 Recruitment Out</strong>
+                <p>2,000+ Vacancies • Online form start</p>
+              </div>
+            </div>
+            <div class="notice-item">
+              <span class="dot orange"></span>
+              <div>
+                <strong>SSC CGL Tier-1 Admit Card Live</strong>
+                <p>Download hall ticket now</p>
+              </div>
+            </div>
+            <div class="notice-item">
+              <span class="dot blue"></span>
+              <div>
+                <strong>Railway NTPC New Notification</strong>
+                <p>Application window closing soon</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Why Choose Daily Job Features -->
+  <section class="section features-section">
+    <div class="container">
+      <div class="section-header text-center">
+        <span class="sub-heading">Why Choose Us</span>
+        <h2 class="section-title">Kyun Chunein Daily Job?</h2>
+        <p class="section-desc">Hum ensure karte hain ke koi bhi fake job posting aapka waqt barbaad na kare.</p>
+      </div>
+
+      <div class="features-grid">
+        <div class="feature-card">
+          <div class="feature-icon icon-1"><i class="fa-solid fa-shield-halved"></i></div>
+          <h3>100% Scam-Free & Verified</h3>
+          <p>Har ek job posting hamari editorial team manually verify karti hai taake fake fees mangne wale scams se aap mehfooz rahein.</p>
+        </div>
+
+        <div class="feature-card">
+          <div class="feature-icon icon-2"><i class="fa-solid fa-clock-rotate-left"></i></div>
+          <h3>Rozana Taza Updates</h3>
+          <p>Har subah 7:00 AM nayi private aur sarkari vacancies update hoti hain taake aap sabse pehle apply kar sakein.</p>
+        </div>
+
+        <div class="feature-card">
+          <div class="feature-icon icon-3"><i class="fa-solid fa-paper-plane"></i></div>
+          <h3>Direct HR / Company Link</h3>
+          <p>Bina kisi intermediate broker ke directly company ke career page ya verified HR email par seedha apply karein.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Newsletter / Instant Alert Section -->
+  <section class="section newsletter-section" id="newsletter">
+    <div class="container">
+      <div class="newsletter-box">
+        <div class="newsletter-glow"></div>
+        <div class="newsletter-content">
+          <span class="badge"><i class="fa-regular fa-envelope"></i> Never Miss a Vacancy</span>
+          <h2>Subah Sabse Pehle Paayein Job Updates</h2>
+          <p>Apni pasandeeda field select karein aur rozana subah seedha apne inbox ya phone par alerts paayein. Bilkul Free!</p>
+          
+          <form class="subscribe-form" id="subscribeForm" onsubmit="handleSubscribe(event)">
+            <input type="email" id="subscriberEmail" placeholder="Apna email address daalein (e.g. rahul@gmail.com)" required>
+            <button type="submit" class="btn btn-primary">Subscribe Free</button>
+          </form>
+          <p class="privacy-note"><i class="fa-solid fa-lock"></i> No Spam Guarantee. Kabhi bhi ek click par unsubscribe kar sakte hain.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container footer-container">
+      <div class="footer-col col-brand">
+        <a href="#" class="logo">
+          <span class="logo-icon"><i class="fa-solid fa-briefcase"></i></span>
+          <span class="logo-text">Daily<span>Job</span></span>
+        </a>
+        <p class="footer-bio">
+          Daily Job aapka bharosemand platform hai jo har din private, sarkari, remote aur multinational job opportunities provide karta hai.
+        </p>
+        <div class="social-links">
+          <a href="#" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
+          <a href="#" aria-label="Twitter"><i class="fa-brands fa-x-twitter"></i></a>
+          <a href="#" aria-label="WhatsApp"><i class="fa-brands fa-whatsapp"></i></a>
+          <a href="#" aria-label="Telegram"><i class="fa-brands fa-telegram"></i></a>
+        </div>
+      </div>
+
+      <div class="footer-col">
+        <h4>Job Categories</h4>
+        <ul>
+          <li><a href="#jobs">Tech & IT Jobs</a></li>
+          <li><a href="#jobs">Government / Sarkari</a></li>
+          <li><a href="#jobs">Work from Home (WFH)</a></li>
+          <li><a href="#jobs">Banking & Finance</a></li>
+          <li><a href="#jobs">Sales & Marketing</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Trending Searches</h4>
+        <ul>
+          <li><a href="#jobs">Freshers Jobs 2026</a></li>
+          <li><a href="#jobs">Data Entry Operator</a></li>
+          <li><a href="#jobs">Software Engineer</a></li>
+          <li><a href="#jobs">SSC CGL / CHSL</a></li>
+          <li><a href="#jobs">Bank PO Recruitment</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Daily Job Network</h4>
+        <ul>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Contact Support</a></li>
+          <li><a href="#">Post a Job</a></li>
+          <li><a href="#">Privacy Policy</a></li>
+          <li><a href="#">Terms of Service</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <div class="container bottom-content">
+        <p>&copy; 2026 <strong>Daily Job</strong>. All Rights Reserved. Designed for fast career growth.</p>
+        <div class="footer-bottom-links">
+          <a href="#">Security</a>
+          <a href="#">Cookies</a>
+          <a href="#">Disclaimer</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Apply Modal -->
+  <div class="modal-overlay" id="applyModal">
+    <div class="modal-content">
+      <button class="modal-close" onclick="closeModal()">&times;</button>
+      <div class="modal-header">
+        <div class="modal-icon"><i class="fa-solid fa-paper-plane"></i></div>
+        <div>
+          <h3 id="modalJobTitle">Apply for Job</h3>
+          <p id="modalCompanyName" class="text-muted">Company Name</p>
+        </div>
+      </div>
+      <form id="jobApplicationForm" onsubmit="submitApplication(event)">
+        <div class="form-group">
+          <label for="applicantName">Full Name</label>
+          <input type="text" id="applicantName" placeholder="Enter your full name" required>
+        </div>
+        <div class="form-group">
+          <label for="applicantEmail">Email Address</label>
+          <input type="email" id="applicantEmail" placeholder="name@example.com" required>
+        </div>
+        <div class="form-group">
+          <label for="applicantPhone">Phone / WhatsApp Number</label>
+          <input type="tel" id="applicantPhone" placeholder="+91 9876543210" required>
+        </div>
+        <div class="form-group">
+          <label for="applicantResume">Resume / CV (PDF or DOC)</label>
+          <input type="file" id="applicantResume" accept=".pdf,.doc,.docx" required>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block">Submit Application Now</button>
+      </form>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
