@@ -1,0 +1,639 @@
+{
+  "updated_at": "2026-11-13T15:25:35.255Z",
+  "total_count": 33,
+  "jobs": [
+    {
+      "id": "govt-ssc-cgl",
+      "title": "SSC CGL 2026 - Assistant Section Officer & Inspector",
+      "company": "Staff Selection Commission (Govt)",
+      "company_logo": "",
+      "category": "govt",
+      "location": "Pan India / Central Govt Departments",
+      "type": "Full Time (Govt)",
+      "salary": "Pay Level 7 (₹44,900 - ₹1,42,400)",
+      "published_at": "2026-11-13T15:25:35.255Z",
+      "url": "https://ssc.gov.in/",
+      "tags": [
+        "SSC CGL",
+        "Graduation Required",
+        "Official Notification"
+      ],
+      "description": "Official notification released for Grade B & C posts across central ministries and departments.",
+      "verified": true,
+      "source": "Official SSC Portal"
+    },
+    {
+      "id": "govt-sbi-po",
+      "title": "State Bank of India (SBI) - Probationary Officer (PO)",
+      "company": "SBI Central Recruitment Board",
+      "company_logo": "",
+      "category": "govt",
+      "location": "All India Bank Branches",
+      "type": "Full Time (Banking)",
+      "salary": "Basic Pay ₹41,960 + DA, HRA, Perks",
+      "published_at": "2026-11-13T15:25:35.255Z",
+      "url": "https://sbi.co.in/web/careers",
+      "tags": [
+        "Bank PO",
+        "Any Graduate",
+        "Nationalised Bank"
+      ],
+      "description": "SBI PO recruitment for 2,000+ vacancies. Online registration and preliminary exam window open.",
+      "verified": true,
+      "source": "SBI Careers"
+    },
+    {
+      "id": "govt-rrb-je",
+      "title": "Railway Recruitment Board (RRB) - Junior Engineer",
+      "company": "Ministry of Railways (Indian Railways)",
+      "company_logo": "",
+      "category": "govt",
+      "location": "Pan India Railway Zones",
+      "type": "Govt Technical",
+      "salary": "Level 6 CPC Matrix",
+      "published_at": "2026-11-13T15:25:35.255Z",
+      "url": "https://indianrailways.gov.in/",
+      "tags": [
+        "RRB JE",
+        "Diploma / B.Tech",
+        "Govt Technical"
+      ],
+      "description": "Recruitment of Junior Engineers in Civil, Electrical, Mechanical and IT cadres.",
+      "verified": true,
+      "source": "Railway Recruitment"
+    },
+    {
+      "id": "remotive-1680495",
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies ",
+      "company_logo": "https://remotive.com/job/1680495/logo",
+      "category": "marketing",
+      "location": "Worldwide",
+      "type": "Remote",
+      "salary": "$35,3k- $52k",
+      "published_at": "2026-11-11T20:17:48",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "tags": [
+        "CSS",
+        "excel",
+        "frontend",
+        "git"
+      ],
+      "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, rep...",
+      "verified": true,
+      "source": "Remotive Verified"
+    },
+    {
+      "id": "remotive-2091137",
+      "title": "Senior Data Engineer",
+      "company": "Lemon.io",
+      "company_logo": "https://remotive.com/job/2091137/logo",
+      "category": "tech",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "type": "Remote",
+      "salary": "Competitive / Best in Industry",
+      "published_at": "2026-11-11T18:39:59",
+      "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137",
+      "tags": [
+        ".Net",
+        "android",
+        "apache",
+        "AWS"
+      ],
+      "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing thi...",
+      "verified": true,
+      "source": "Remotive Verified"
+    },
+    {
+      "id": "remotive-2091171",
+      "title": "Customer Service Representative",
+      "company": "ShyftOff",
+      "company_logo": "https://remotive.com/job/2091171/logo",
+      "category": "tech",
+      "location": "USA",
+      "type": "Remote",
+      "salary": "$14 - $20/hour",
+      "published_at": "2026-11-11T09:11:58",
+      "url": "https://remotive.com/remote-jobs/customer-service/customer-service-representative-2091171",
+      "tags": [
+        "video",
+        "healthcare",
+        "retail",
+        "onboarding"
+      ],
+      "description": "ShyftOff connects independent customer service professionals with opportunities to support leading brands across industries like healthcare, financial services,...",
+      "verified": true,
+      "source": "Remotive Verified"
+    },
+    {
+      "id": "remotive-2091136",
+      "title": "Senior React Full-stack Developer",
+      "company": "Lemon.io",
+      "company_logo": "https://remotive.com/job/2091136/logo",
+      "category": "tech",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "type": "Remote",
+      "salary": "Competitive / Best in Industry",
+      "published_at": "2026-11-10T14:25:05",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
+      "tags": [
+        ".Net",
+        "android",
+        "AWS",
+        "azure"
+      ],
+      "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing thi...",
+      "verified": true,
+      "source": "Remotive Verified"
+    },
+    {
+      "id": "remotive-2086540",
+      "title": "Inside Sales Contractor",
+      "company": "Credit Wellness, LLC",
+      "company_logo": "https://remotive.com/job/2086540/logo",
+      "category": "marketing",
+      "location": "Worldwide",
+      "type": "Remote",
+      "salary": "OTE $25k - $35k",
+      "published_at": "2026-11-08T21:47:58",
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "tags": [
+        "CRM",
+        "google sheets",
+        "financial services",
+        "Inside Sales"
+      ],
+      "description": "About Us\nWe are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives...",
+      "verified": true,
+      "source": "Remotive Verified"
+    },
+    {
+      "id": "remotive-2091045",
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "company_logo": "https://remotive.com/job/2091045/logo",
+      "category": "tech",
+      "location": "Worldwide",
+      "type": "Remote",
+      "salary": "Competitive / Best in Industry",
+      "published_at": "2026-11-07T01:10:55",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "tags": [
+        "azure",
+        "cisco",
+        "security",
+        "video"
+      ],
+      "description": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Int...",
+      "verified": true,
+      "source": "Remotive Verified"
+    },
+    {
+      "id": "remotive-2091168",
+      "title": "US Remote Patient Care Advocate (Customer Service)",
+      "company": "VXI Global Solutions",
+      "company_logo": "https://remotive.com/job/2091168/logo",
+      "category": "tech",
+      "location": "USA",
+      "type": "Remote",
+      "salary": "$25k - $35k",
+      "published_at": "2026-11-06T08:51:01",
+      "url": "https://remotive.com/remote-jobs/customer-service/us-remote-patient-care-advocate-customer-service-2091168",
+      "tags": [
+        "healthcare",
+        "insurance"
+      ],
+      "description": "Job Title: Patient Care Advocate Job Location: RemoteAbout Us: We are a dedicated team focused on improving access to affordable prescription medications for pa...",
+      "verified": true,
+      "source": "Remotive Verified"
+    },
+    {
+      "id": "remotive-1185979",
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "company_logo": "https://remotive.com/job/1185979/logo",
+      "category": "tech",
+      "location": "Worldwide",
+      "type": "Remote",
+      "salary": "$50-$75 /hour",
+      "published_at": "2026-11-04T16:53:35",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "tags": [
+        "REST"
+      ],
+      "description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics.\n \nThe rate of pay is $20 per 100 words (this comes out to ...",
+      "verified": true,
+      "source": "Remotive Verified"
+    },
+    {
+      "id": "remotive-2091166",
+      "title": "Content Reviewer - United States",
+      "company": "TELUS Digital",
+      "company_logo": "https://remotive.com/job/2091166/logo",
+      "category": "tech",
+      "location": "USA",
+      "type": "Remote",
+      "salary": "$14/hour",
+      "published_at": "2026-11-04T13:39:06",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166",
+      "tags": [
+        "android",
+        "ios",
+        "social media",
+        "AI/ML"
+      ],
+      "description": " \nWe are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you'...",
+      "verified": true,
+      "source": "Remotive Verified"
+    },
+    {
+      "id": "remotive-1749306",
+      "title": "Freelance Copywriter",
+      "company": "Coalition Technologies ",
+      "company_logo": "https://remotive.com/job/1749306/logo",
+      "category": "tech",
+      "location": "Worldwide",
+      "type": "Remote",
+      "salary": "$20k -$35k",
+      "published_at": "2026-11-02T20:01:00",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "tags": [
+        "accounting",
+        "excel",
+        "research",
+        "data analysis"
+      ],
+      "description": "CT Marketing Agency is seeking skilled Freelance Copywriters to write high-quality, SEO-driven content for eCommerce and lead generation websites. This is a fre...",
+      "verified": true,
+      "source": "Remotive Verified"
+    },
+    {
+      "id": "remotive-2091165",
+      "title": "Full-Stack Developer",
+      "company": "Fluence International, Inc.",
+      "company_logo": "https://remotive.com/job/2091165/logo",
+      "category": "tech",
+      "location": "Worldwide",
+      "type": "Remote",
+      "salary": "$3.5k–$5k/month",
+      "published_at": "2026-10-29T18:22:41",
+      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+      "tags": [
+        "admin",
+        "api",
+        "AWS",
+        "backend"
+      ],
+      "description": "We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organiza...",
+      "verified": true,
+      "source": "Remotive Verified"
+    },
+    {
+      "id": "remotive-2091135",
+      "title": "Senior Back-end Developer",
+      "company": "Lemon.io",
+      "company_logo": "https://remotive.com/job/2091135/logo",
+      "category": "tech",
+      "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
+      "type": "Remote",
+      "salary": "Competitive / Best in Industry",
+      "published_at": "2026-10-27T12:56:13",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
+      "tags": [
+        ".Net",
+        "android",
+        "C",
+        "C#"
+      ],
+      "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing thi...",
+      "verified": true,
+      "source": "Remotive Verified"
+    },
+    {
+      "id": "remotive-2091134",
+      "title": "Head of Engineering",
+      "company": "Lemon.io",
+      "company_logo": "https://remotive.com/job/2091134/logo",
+      "category": "tech",
+      "location": "Worldwide",
+      "type": "Remote",
+      "salary": "Competitive / Best in Industry",
+      "published_at": "2026-10-26T12:20:09",
+      "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134",
+      "tags": [
+        "AI/ML",
+        "startup",
+        "marketplace",
+        "fundraising"
+      ],
+      "description": "About Lemon.ioLemon.io is a profitable, growing talent marketplace that connects vetted senior engineers with companies that need them. We’ve been in business f...",
+      "verified": true,
+      "source": "Remotive Verified"
+    },
+    {
+      "id": "remotive-2091161",
+      "title": "AI Trainer - Video Annotation",
+      "company": "iMerit Technology",
+      "company_logo": "https://remotive.com/job/2091161/logo",
+      "category": "tech",
+      "location": "Worldwide",
+      "type": "Remote",
+      "salary": "70K-80K",
+      "published_at": "2026-10-22T18:40:19",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
+      "tags": [
+        "video",
+        "AI/ML",
+        "robotics"
+      ],
+      "description": "AI Trainer - Video AnnotationRemote   |   Independent Contractor   Prove your skills. Get certified. Robotics AI is advancing rapidly, and high-quality video da...",
+      "verified": true,
+      "source": "Remotive Verified"
+    },
+    {
+      "id": "remotive-2091158",
+      "title": "Software Engineer, AI Coding Tasks",
+      "company": "Askable",
+      "company_logo": "https://remotive.com/job/2091158/logo",
+      "category": "tech",
+      "location": "Worldwide",
+      "type": "Remote",
+      "salary": "$1000 per task",
+      "published_at": "2026-10-17T16:04:29",
+      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+      "tags": [
+        "C++",
+        "docker",
+        "git",
+        "go"
+      ],
+      "description": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you...",
+      "verified": true,
+      "source": "Remotive Verified"
+    },
+    {
+      "id": "arbeit-senior-project-manager-digital-berlin-87535",
+      "title": "Senior Project Manager Digital (m/w/d)",
+      "company": "WPP Production",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin, Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-13T14:45:33.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/wpp-production/senior-project-manager-digital-berlin-87535",
+      "tags": [],
+      "description": "About WPP Production\nWe are WPP Production - the unified global production company that brings together all of WPP's content producers, studios and craft expert...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-project-manager-digital-hamburg-131801",
+      "title": "Senior Project Manager Digital (m/w/d)",
+      "company": "WPP Production",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Hamburg, Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-13T14:45:33.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/wpp-production/senior-project-manager-digital-hamburg-131801",
+      "tags": [],
+      "description": "About WPP Production\nWe are WPP Production - the unified global production company that brings together all of WPP's content producers, studios and craft expert...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-people-operations-working-student-berlin-323013",
+      "title": "People Operations Working Student (m/f/d)",
+      "company": "Wellhub",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin, Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-13T14:45:32.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/wellhub/people-operations-working-student-berlin-323013",
+      "tags": [],
+      "description": "Your wellbeing, our mission. Join a company shaping a healthier world.\nGET TO KNOW US\nAt Wellhub we're revolutionizing workplace wellness. Our platform connects...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-software-engineer-proactive-security-berlin-305358",
+      "title": "Senior Software Engineer, Proactive Security",
+      "company": "Wolt - English",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin, Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-13T14:45:31.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-software-engineer-proactive-security-berlin-305358",
+      "tags": [],
+      "description": "About Wolt\nAt Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaur...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-buchhalter-intercompany-100-remote-berlin-119194",
+      "title": "Buchhalter Intercompany (m/w/d) - 100% Remote",
+      "company": "1KOMMA5˚",
+      "company_logo": "",
+      "category": "finance",
+      "location": "Berlin",
+      "type": "Remote",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-13T14:33:28.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/buchhalter-intercompany-100-remote-berlin-119194",
+      "tags": [
+        "Remote",
+        "Finance"
+      ],
+      "description": "1KOMMA5°\nBei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free. Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. B...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-qualtrics-medallia-implementation-manager-halle-saale-10850",
+      "title": "Qualtrics/-Medallia Implementation Manager (m/w/d)",
+      "company": "Personal-Placement ",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Halle (Saale)",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-13T14:33:25.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/personal-placement/qualtrics-medallia-implementation-manager-halle-saale-10850",
+      "tags": [
+        "Consulting",
+        "Engineering"
+      ],
+      "description": "Sind Sie auf der Suche nach einer neuen beruflichen Aufgabe? Gerne begleite ich Sie auf dem Weg dahin!Aktuell suche ich für mein Kundenunternehmen, einen Qualtr...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-praktikum-werkstudententatigkeit-produktion-qualitatssicherung-produktentwicklung-sauerlach-25736",
+      "title": "Praktikum / Werkstudententätigkeit – Produktion, Qualitätssicherung & Produktentwicklung (m/w/d)",
+      "company": "Lini's Bites",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Sauerlach",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-13T14:33:25.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/linis-bites/praktikum-werkstudententatigkeit-produktion-qualitatssicherung-produktentwicklung-sauerlach-25736",
+      "tags": [
+        "Process Engineering"
+      ],
+      "description": "Du möchtest dein Wissen aus dem Studium in der Praxis anwenden, spannende Einblicke in die Lebensmittelindustrie gewinnen und aktiv an der Herstellung und Entwi...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-werkstudent-sourcing-essen-250558",
+      "title": "Werkstudent Sourcing (m/w/d)",
+      "company": "Nextado GmbH",
+      "company_logo": "",
+      "category": "design",
+      "location": "Essen",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-13T14:33:24.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/nextado-gmbh/werkstudent-sourcing-essen-250558",
+      "tags": [
+        "Recruitment and Selection"
+      ],
+      "description": "Nextado GmbH – Die richtigen Menschen finden, bevor sie gesucht werden!Nextado ist ein IT-Dienstleistungsunternehmen mit Fokus auf SAP-Sicherheit. Gute Fachkräf...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-working-student-customer-support-berlin-412124",
+      "title": "Working Student Customer Support (f/m/d)",
+      "company": "7NXT GmbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-13T14:33:24.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/working-student-customer-support-berlin-412124",
+      "tags": [
+        "Customer Service"
+      ],
+      "description": "Working Student Customer Support (f/m/d)The essentialsTeam: Customer SupportLocation: BerlinStart date: As soon as possibleWorking hours: 20 hrs/ weekSalary ban...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-sachbearbeiter-qualitatsuberwachung-magdeburg-70341",
+      "title": "Sachbearbeiter (m/w/d) Qualitätsüberwachung",
+      "company": "STORK Unternehmensgruppe",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Magdeburg",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-13T14:33:24.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/stork-unternehmensgruppe/sachbearbeiter-qualitatsuberwachung-magdeburg-70341",
+      "tags": [
+        "Accounts Receivable"
+      ],
+      "description": "Die STORK – Gruppe ist ein mittelständisches Dienstleistungsunternehmen im Bereich Entsorgung / Recycling mit Hauptsitz in Magdeburg und weiteren Standorten in ...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-visual-content-creator-mediengestalterin-fur-social-media-nuremberg-133978",
+      "title": "Visual Content Creator / Mediengestalter:in für Social Media (m/w/d)",
+      "company": "Based",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Nuremberg",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-13T14:33:24.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/based/visual-content-creator-mediengestalterin-fur-social-media-nuremberg-133978",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "description": "Wir sind Based - die führende Agentur mit Fokus für Social Media in der Region. Wir unterstützen unsere Kund:innen dabei, ihre Marke mit ihrer Zielgruppe zu ver...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-praktikum-werkstudententatigkeit-sales-marketing-design-munich-104509",
+      "title": "Praktikum / Werkstudententätigkeit – Sales, Marketing & Design (m/w/d)",
+      "company": "Lini's Bites",
+      "company_logo": "",
+      "category": "marketing",
+      "location": "Munich",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-13T14:33:24.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/linis-bites/praktikum-werkstudententatigkeit-sales-marketing-design-munich-104509",
+      "tags": [
+        "Marketing Assistant"
+      ],
+      "description": "Du möchtest praktische Erfahrungen sammeln, Verantwortung übernehmen und spannende Einblicke in ein wachsendes Food-Startup gewinnen? Dann werde Teil unseres Te...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-junior-ki-entwickler-cologne-48010",
+      "title": "Junior KI-Entwickler (m/w/d)",
+      "company": "OSCAR GmbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Cologne",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-13T14:33:24.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/oscar-gmbh/junior-ki-entwickler-cologne-48010",
+      "tags": [
+        "Data Scientist"
+      ],
+      "description": "Deine AufgabenVollzeit in Köln oder hybrid | 10 Monate | Ab Januar | 2.530 bruttoDu bringst eigene Ideen ein und identifizierst gemeinsam mit uns KI-Use-Cases, ...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-it-systemadministrator-leverkusen-481283",
+      "title": "IT-Systemadministrator (m/w/d)",
+      "company": "XIAO Beteiligungsgesellschaft mbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Leverkusen",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-13T14:33:24.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/xiao-beteiligungsgesellschaft-mbh/it-systemadministrator-leverkusen-481283",
+      "tags": [
+        "System and Network Administration"
+      ],
+      "description": "Jobbeschreibung\nDie XIAO Gruppe ist eine mittelständische, inhabergeführte Unternehmensgruppe aus Gastronomie und Immobilienwirtschaft mit Sitz in Gelsenkirchen...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-marketing-management-leipzig-223800",
+      "title": "Marketing Management (m/w/d)",
+      "company": "boOst Startup Ecosystem gGmbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Leipzig",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-13T14:33:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/boost-startup-ecosystem-ggmbh/marketing-management-leipzig-223800",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "description": "Storytelling für eine neue Startup-Kultur in MitteldeutschlandDeine Mission: Menschen fürs Gründen begeistern, die Startupkultur in Deutschland mitgestalten und...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    }
+  ]
+}
