@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T04:05:54.610Z",
+  "updated_at": "2026-11-15T03:51:44.123Z",
   "total_count": 33,
   "jobs": [
     {
@@ -11,7 +11,7 @@
       "location": "Pan India / Central Govt Departments",
       "type": "Full Time (Govt)",
       "salary": "Pay Level 7 (₹44,900 - ₹1,42,400)",
-      "published_at": "2026-11-14T04:05:54.609Z",
+      "published_at": "2026-11-15T03:51:44.123Z",
       "url": "https://ssc.gov.in/",
       "tags": [
         "SSC CGL",
@@ -31,7 +31,7 @@
       "location": "All India Bank Branches",
       "type": "Full Time (Banking)",
       "salary": "Basic Pay ₹41,960 + DA, HRA, Perks",
-      "published_at": "2026-11-14T04:05:54.609Z",
+      "published_at": "2026-11-15T03:51:44.123Z",
       "url": "https://sbi.co.in/web/careers",
       "tags": [
         "Bank PO",
@@ -51,7 +51,7 @@
       "location": "Pan India Railway Zones",
       "type": "Govt Technical",
       "salary": "Level 6 CPC Matrix",
-      "published_at": "2026-11-14T04:05:54.609Z",
+      "published_at": "2026-11-15T03:51:44.123Z",
       "url": "https://indianrailways.gov.in/",
       "tags": [
         "RRB JE",
@@ -372,272 +372,273 @@
       "source": "Remotive Verified"
     },
     {
-      "id": "arbeit-ai-native-software-engineer-berlin-186419",
-      "title": "AI-Native Software Engineer (m/w/d)",
-      "company": "vitaservices GmbH & Co. KG",
+      "id": "arbeit-security-engineer-berlin-205072",
+      "title": "Security Engineer",
+      "company": "Superhuman",
+      "company_logo": "",
+      "category": "marketing",
+      "location": "Hub - Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T00:40:12.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/superhuman/security-engineer-berlin-205072",
+      "tags": [
+        "Engineering",
+        "Product",
+        "Design",
+        "and Marketing"
+      ],
+      "description": "Superhuman offers a dynamic hybrid working model for this role. This flexible approach gives team members the best of both worlds: plenty of focus time along wi...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-commercial-lead-dammung-berlin-419813",
+      "title": "Commercial Lead - Dämmung (w/m/d)",
+      "company": "Enpal",
       "company_logo": "",
       "category": "tech",
       "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T02:30:37.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/vitaservices-gmbh-co-kg/ai-native-software-engineer-berlin-186419",
+      "published_at": "2026-11-15T00:40:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/enpal/commercial-lead-dammung-berlin-419813",
       "tags": [
-        "Software Development"
+        "Installation Wärmepumpe"
       ],
-      "description": "Dein Plus bei Health Dialog Solutions\nWir entwickeln Software, IT-Services und digitale Lösungen für Kassenärztliche Vereinigungen und Krankenversicherungen. Un...",
+      "description": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamt...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-working-student-legal-operations-and-technology-munich-482669",
-      "title": "Working Student Legal Operations and Technology",
-      "company": "celonis",
+      "id": "arbeit-senior-associate-go-to-market-dammung-berlin-37938",
+      "title": "Senior Associate - Go-to-Market Dämmung (w/m/d)",
+      "company": "Enpal",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T00:40:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/enpal/senior-associate-go-to-market-dammung-berlin-37938",
+      "tags": [
+        "Installation Wärmepumpe"
+      ],
+      "description": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamt...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-associate-venture-development-new-venture-dammung-berlin-377047",
+      "title": "Senior Associate Venture Development – New Venture Dämmung (w/m/d)",
+      "company": "Enpal",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T00:40:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/enpal/senior-associate-venture-development-new-venture-dammung-berlin-377047",
+      "tags": [
+        "Installation Wärmepumpe"
+      ],
+      "description": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamt...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-sales-manager-berlin-422962",
+      "title": "Sales Manager (w/m/d)",
+      "company": "Enpal",
+      "company_logo": "",
+      "category": "marketing",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T00:40:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/enpal/sales-manager-berlin-422962",
+      "tags": [
+        "Sales"
+      ],
+      "description": "Enpal.Cool: Eine neue Abteilung mit Start-up-SpiritBerlin/Brandenburg | 70.000 € OTE | ungedeckelte Provision | vor OrtUnser Ziel ist eine Solaranlage auf jedem...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-communications-managerin-berlin-143434",
+      "title": "(Senior) Communications Manager:in (w/m/d)",
+      "company": "Enpal",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T00:40:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/enpal/senior-communications-managerin-berlin-143434",
+      "tags": [
+        "Headquarter Growth"
+      ],
+      "description": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamt...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-partner-sales-manager-munchen-302561",
+      "title": "Partner Sales Manager (w/m/d)",
+      "company": "Enpal",
+      "company_logo": "",
+      "category": "marketing",
+      "location": "München",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T00:40:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/enpal/partner-sales-manager-munchen-302561",
+      "tags": [
+        "Sales"
+      ],
+      "description": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamt...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-technical-delivery-manager-munich-163531",
+      "title": "Technical Delivery Manager - Munich",
+      "company": "Legora",
       "company_logo": "",
       "category": "tech",
       "location": "Munich",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/working-student-legal-operations-and-technology-munich-482669",
+      "published_at": "2026-11-15T00:40:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/legora/technical-delivery-manager-munich-163531",
       "tags": [
-        "Legal"
+        "Global Services"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — w...",
+      "description": "About UsLegora is redefining how legal work gets done. Not built for lawyers, built with them. We work alongside the world’s best legal teams, who expect excell...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-software-engineer-query-engine-database-systems-munich-4419",
-      "title": "Senior Software Engineer - Query Engine & Database Systems",
-      "company": "celonis",
+      "id": "arbeit-werkstudentin-content-marketing-spanien-mwd-berlin-466537",
+      "title": "Werkstudent:in Content Marketing - Spanien (m|w|d)",
+      "company": "idealo internet GmbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin, Berlin, Deutschland",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T00:31:20.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/werkstudentin-content-marketing-spanien-mwd-berlin-466537",
+      "tags": [
+        "Career Starters"
+      ],
+      "description": "Als Teil unseres Teams erwarten dich viel Gestaltungsspielraum, ein internationales Arbeitsumfeld im Herzen Berlins und der ganz eigene idealo Spirit. Du möchte...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-werkstudentin-content-marketing-frankreich-mwd-berlin-37332",
+      "title": "Werkstudent:in Content Marketing - Frankreich (m|w|d)",
+      "company": "idealo internet GmbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin, Berlin, Deutschland",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T00:31:20.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/werkstudentin-content-marketing-frankreich-mwd-berlin-37332",
+      "tags": [
+        "Career Starters"
+      ],
+      "description": "Als Teil unseres Teams erwarten dich viel Gestaltungsspielraum, ein internationales Arbeitsumfeld im Herzen Berlins und der ganz eigene idealo Spirit. Du möchte...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-buchhalter-waiblingen-390349",
+      "title": "Senior Buchhalter (m/w/x)",
+      "company": "Rotzinger Group",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Waiblingen, Baden-Württemberg, Deutschland",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T00:31:19.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/rotzinger-group/senior-buchhalter-waiblingen-390349",
+      "tags": [
+        "Rotzinger PharmaPack"
+      ],
+      "description": "Zur Verstärkung unseres Finanzbereichs suchen wir Dich als erfahrenen Senior Buchhalter (m/w/d), der nicht nur fachlich sicher im Rechnungswesen ist, sondern au...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-projektmanager-instandhaltung-und-sanierung-konstanz-263059",
+      "title": "Projektmanager Instandhaltung und Sanierung (m/w/d)",
+      "company": "Immobetriebe Hausverwaltung GmbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Konstanz",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-14T22:01:25.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/immobetriebe-hausverwaltung-gmbh/projektmanager-instandhaltung-und-sanierung-konstanz-263059",
+      "tags": [
+        "Project Management"
+      ],
+      "description": "Sie kommen vom Bau oder aus dem Handwerk, erkennen auf den ersten Blick, ob eine Arbeit sauber ausgeführt ist, und wollen Maßnahmen nicht mehr selbst ausführen,...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-solutions-engineer-uas-aviation-munich-322073",
+      "title": "Solutions Engineer UAS / Aviation",
+      "company": "Auterion",
       "company_logo": "",
       "category": "tech",
       "location": "Munich",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-software-engineer-query-engine-database-systems-munich-4419",
+      "published_at": "2026-11-14T21:55:16.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/auterion/solutions-engineer-uas-aviation-munich-322073",
       "tags": [
         "Engineering"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — w...",
+      "description": "&lt;p&gt;We’re looking for a Solutions Engineer UAS / Aviation who will play a pivotal role in the future of our company. Our Solutions Engineer will be respons...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-software-engineer-engine-orchestration-munich-205702",
-      "title": "Senior Software Engineer - Engine Orchestration",
-      "company": "celonis",
+      "id": "arbeit-senior-product-manager-ai-products-agentic-hospitality-germany-426998",
+      "title": "Senior Product Manager, AI Products & Agentic Hospitality (f/m/d)",
+      "company": "Apaleo",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-14T21:45:22.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/apaleo/senior-product-manager-ai-products-agentic-hospitality-germany-426998",
+      "tags": [],
+      "description": "About the role&nbsp;\n&nbsp;\nAt Apaleo, we're building the open, API-first property management platform for hospitality. With integrations across hundreds of app...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-solutions-engineer-munich-465984",
+      "title": "Solutions Engineer",
+      "company": "True Talent Solutions Partners",
       "company_logo": "",
       "category": "tech",
       "location": "Munich",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-software-engineer-engine-orchestration-munich-205702",
+      "published_at": "2026-11-14T21:40:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/solutions-engineer-munich-465984",
       "tags": [
-        "Engineering"
+        "Client Roles"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — w...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-software-engineer-munich-59079",
-      "title": "Senior Software Engineer",
-      "company": "celonis",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Munich",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-software-engineer-munich-59079",
-      "tags": [
-        "Engineering"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — w...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-enterprise-ai-consultant-munich-100196",
-      "title": "Enterprise AI Consultant",
-      "company": "celonis",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Munich",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/enterprise-ai-consultant-munich-100196",
-      "tags": [
-        "Services"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — w...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-software-engineer-proactive-security-berlin-19007",
-      "title": "Senior Software Engineer, Proactive Security",
-      "company": "wolt",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:24.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/wolt/senior-software-engineer-proactive-security-berlin-19007",
-      "tags": [
-        "Security Engineering (Information Security)"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;About Wolt&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span data-sheets...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-space-systems-engineer-mission-optimization-berlin-235484",
-      "title": "Senior Space Systems Engineer, Mission Optimization",
-      "company": "planetlabs",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:24.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/senior-space-systems-engineer-mission-optimization-berlin-235484",
-      "tags": [
-        "Mission Systems"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to Planet. We believe in using space to help life on Earth.&lt;/strong&gt;&lt;/p&gt;\n&...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-engineering-program-manager-berlin-146457",
-      "title": "Senior Engineering Program Manager",
-      "company": "planetlabs",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:24.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/senior-engineering-program-manager-berlin-146457",
-      "tags": [
-        "Engineering Program Management"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to Planet. We believe in using space to help life on Earth.&lt;/strong&gt;&lt;/p&gt;\n&...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-data-analyst-aml-berlin-3972",
-      "title": "Data analyst - AML",
-      "company": "sumup",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:24.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/data-analyst-aml-berlin-3972",
-      "tags": [
-        "Data & Analytics"
-      ],
-      "description": "&lt;p&gt;&lt;strong&gt;About the team:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At SumUp, keeping our platform safe and compliant is critical to the trust of the milli...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-teamleiter-logistik-heidelberg-baden-wurttemberg-291118",
-      "title": "Teamleiter Logistik (m/w/d)",
-      "company": "Teampicnic",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Heidelberg, Baden-Württemberg",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:21.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-heidelberg-baden-wurttemberg-291118",
-      "tags": [
-        "Operations"
-      ],
-      "description": "&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;\n&lt;h2&gt;&lt;strong&gt;Kurz und knapp&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Suchst du eine Führungsrolle, in der deine positive En...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-teamleiter-logistik-viernheim-hesse-419830",
-      "title": "Teamleiter Logistik (m/w/d)",
-      "company": "Teampicnic",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Viernheim, Hesse",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:21.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-viernheim-hesse-419830",
-      "tags": [
-        "Operations"
-      ],
-      "description": "&lt;h2&gt;&lt;strong&gt;Kurz und knapp&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Suchst du eine Führungsrolle, in der deine positive Energie und dein Teamgeist den Unt...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-teamleiter-logistik-mannheim-baden-wurttemberg-382326",
-      "title": "Teamleiter Logistik (m/w/d)",
-      "company": "Teampicnic",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Mannheim, Baden-Württemberg",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:21.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-mannheim-baden-wurttemberg-382326",
-      "tags": [
-        "Operations"
-      ],
-      "description": "&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;\n&lt;h2&gt;&lt;strong&gt;Kurz und knapp&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Suchst du eine Führungsrolle, in der deine positive En...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-teamleiter-logistik-bergkamen-north-rhine-westphalia-170449",
-      "title": "Teamleiter Logistik (m/w/d)",
-      "company": "Teampicnic",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Bergkamen, North Rhine-Westphalia",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:21.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-bergkamen-north-rhine-westphalia-170449",
-      "tags": [
-        "Operations"
-      ],
-      "description": "&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;\n&lt;h2&gt;&lt;strong&gt;Kurz und knapp&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Suchst du eine Führungsrolle, in der deine positive En...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-teamleiter-logistik-nurnberg-bavaria-449741",
-      "title": "Teamleiter Logistik (m/w/d)",
-      "company": "Teampicnic",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Nürnberg, Bavaria",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:21.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-nurnberg-bavaria-449741",
-      "tags": [
-        "Operations"
-      ],
-      "description": "&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;\n&lt;h2&gt;&lt;strong&gt;Kurz und knapp&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Suchst du eine Führungsrolle, in der deine positive En...",
+      "description": "About the RoleJoin a team bringing digital tools to industrial research and development. You will lead technical pre-sales engagements, helping prospective cust...",
       "verified": true,
       "source": "Arbeitnow Verified"
     }
