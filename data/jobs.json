@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T03:51:44.123Z",
+  "updated_at": "2026-11-16T03:52:35.205Z",
   "total_count": 33,
   "jobs": [
     {
@@ -11,7 +11,7 @@
       "location": "Pan India / Central Govt Departments",
       "type": "Full Time (Govt)",
       "salary": "Pay Level 7 (₹44,900 - ₹1,42,400)",
-      "published_at": "2026-11-15T03:51:44.123Z",
+      "published_at": "2026-11-16T03:52:35.205Z",
       "url": "https://ssc.gov.in/",
       "tags": [
         "SSC CGL",
@@ -31,7 +31,7 @@
       "location": "All India Bank Branches",
       "type": "Full Time (Banking)",
       "salary": "Basic Pay ₹41,960 + DA, HRA, Perks",
-      "published_at": "2026-11-15T03:51:44.123Z",
+      "published_at": "2026-11-16T03:52:35.205Z",
       "url": "https://sbi.co.in/web/careers",
       "tags": [
         "Bank PO",
@@ -51,7 +51,7 @@
       "location": "Pan India Railway Zones",
       "type": "Govt Technical",
       "salary": "Level 6 CPC Matrix",
-      "published_at": "2026-11-15T03:51:44.123Z",
+      "published_at": "2026-11-16T03:52:35.205Z",
       "url": "https://indianrailways.gov.in/",
       "tags": [
         "RRB JE",
@@ -61,6 +61,27 @@
       "description": "Recruitment of Junior Engineers in Civil, Electrical, Mechanical and IT cadres.",
       "verified": true,
       "source": "Railway Recruitment"
+    },
+    {
+      "id": "remotive-2091173",
+      "title": "Content Creator - YouTube",
+      "company": "Metics Media",
+      "company_logo": "https://remotive.com/job/2091173/logo",
+      "category": "marketing",
+      "location": "USA, Canada",
+      "type": "Remote",
+      "salary": "$85k - $155k",
+      "published_at": "2026-11-13T17:29:57",
+      "url": "https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173",
+      "tags": [
+        "ecommerce",
+        "shopify",
+        "video",
+        "AI/ML"
+      ],
+      "description": "Important: Applications without an intro video will not be considered.Job OverviewCreate engaging YouTube tutorials about software, digital marketing, and AI to...",
+      "verified": true,
+      "source": "Remotive Verified"
     },
     {
       "id": "remotive-1680495",
@@ -351,294 +372,272 @@
       "source": "Remotive Verified"
     },
     {
-      "id": "remotive-2091158",
-      "title": "Software Engineer, AI Coding Tasks",
-      "company": "Askable",
-      "company_logo": "https://remotive.com/job/2091158/logo",
+      "id": "arbeit-senior-mechanical-engineer-robotic-systems-munich-bavaria-66135",
+      "title": "Senior Mechanical Engineer - Robotic Systems",
+      "company": "Agilerobotsse",
+      "company_logo": "",
       "category": "tech",
-      "location": "Worldwide",
+      "location": "Munich, Bavaria",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-16T00:55:24.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-mechanical-engineer-robotic-systems-munich-bavaria-66135",
+      "tags": [
+        "Applied Automation Intelligence"
+      ],
+      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Agile Robots SE is an innovative company with a clear mission: bringing intelligent robotic solutions to our customers. W...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-forward-deployed-ai-engineer-munich-bavaria-239617",
+      "title": "Forward Deployed AI Engineer (m/f/d)",
+      "company": "Agilerobotsse",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Munich, Bavaria",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-16T00:55:24.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/forward-deployed-ai-engineer-munich-bavaria-239617",
+      "tags": [
+        "Applied Automation Intelligence"
+      ],
+      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Agile Robots SE is an innovative company with a clear mission: bringing intelligent robotic solutions to our customers. W...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-remote-senior-engagement-manager-professional-services-sales-emea-410334",
+      "title": "Senior Engagement Manager - Professional Services Sales,  EMEA",
+      "company": "gitlab",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Remote",
       "type": "Remote",
-      "salary": "$1000 per task",
-      "published_at": "2026-10-17T16:04:29",
-      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
-      "tags": [
-        "C++",
-        "docker",
-        "git",
-        "go"
-      ],
-      "description": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you...",
-      "verified": true,
-      "source": "Remotive Verified"
-    },
-    {
-      "id": "arbeit-security-engineer-berlin-205072",
-      "title": "Security Engineer",
-      "company": "Superhuman",
-      "company_logo": "",
-      "category": "marketing",
-      "location": "Hub - Berlin",
-      "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T00:40:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/superhuman/security-engineer-berlin-205072",
+      "published_at": "2026-11-16T00:55:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-senior-engagement-manager-professional-services-sales-emea-410334",
       "tags": [
-        "Engineering",
-        "Product",
-        "Design",
-        "and Marketing"
+        "Practice Management"
       ],
-      "description": "Superhuman offers a dynamic hybrid working model for this role. This flexible approach gives team members the best of both worlds: plenty of focus time along wi...",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase dev...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-commercial-lead-dammung-berlin-419813",
-      "title": "Commercial Lead - Dämmung (w/m/d)",
-      "company": "Enpal",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T00:40:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/enpal/commercial-lead-dammung-berlin-419813",
-      "tags": [
-        "Installation Wärmepumpe"
-      ],
-      "description": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamt...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-associate-go-to-market-dammung-berlin-37938",
-      "title": "Senior Associate - Go-to-Market Dämmung (w/m/d)",
-      "company": "Enpal",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T00:40:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/enpal/senior-associate-go-to-market-dammung-berlin-37938",
-      "tags": [
-        "Installation Wärmepumpe"
-      ],
-      "description": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamt...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-associate-venture-development-new-venture-dammung-berlin-377047",
-      "title": "Senior Associate Venture Development – New Venture Dämmung (w/m/d)",
-      "company": "Enpal",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T00:40:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/enpal/senior-associate-venture-development-new-venture-dammung-berlin-377047",
-      "tags": [
-        "Installation Wärmepumpe"
-      ],
-      "description": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamt...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-sales-manager-berlin-422962",
-      "title": "Sales Manager (w/m/d)",
-      "company": "Enpal",
-      "company_logo": "",
-      "category": "marketing",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T00:40:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/enpal/sales-manager-berlin-422962",
-      "tags": [
-        "Sales"
-      ],
-      "description": "Enpal.Cool: Eine neue Abteilung mit Start-up-SpiritBerlin/Brandenburg | 70.000 € OTE | ungedeckelte Provision | vor OrtUnser Ziel ist eine Solaranlage auf jedem...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-communications-managerin-berlin-143434",
-      "title": "(Senior) Communications Manager:in (w/m/d)",
-      "company": "Enpal",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T00:40:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/enpal/senior-communications-managerin-berlin-143434",
-      "tags": [
-        "Headquarter Growth"
-      ],
-      "description": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamt...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-partner-sales-manager-munchen-302561",
-      "title": "Partner Sales Manager (w/m/d)",
-      "company": "Enpal",
-      "company_logo": "",
-      "category": "marketing",
-      "location": "München",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T00:40:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/enpal/partner-sales-manager-munchen-302561",
-      "tags": [
-        "Sales"
-      ],
-      "description": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamt...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-technical-delivery-manager-munich-163531",
-      "title": "Technical Delivery Manager - Munich",
-      "company": "Legora",
+      "id": "arbeit-senior-value-engineer-manufacturing-production-munich-429472",
+      "title": "Senior Value Engineer - Manufacturing/Production",
+      "company": "celonis",
       "company_logo": "",
       "category": "tech",
       "location": "Munich",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T00:40:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/legora/technical-delivery-manager-munich-163531",
+      "published_at": "2026-11-16T00:55:19.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-value-engineer-manufacturing-production-munich-429472",
       "tags": [
-        "Global Services"
+        "Value Engineering"
       ],
-      "description": "About UsLegora is redefining how legal work gets done. Not built for lawyers, built with them. We work alongside the world’s best legal teams, who expect excell...",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — w...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-werkstudentin-content-marketing-spanien-mwd-berlin-466537",
-      "title": "Werkstudent:in Content Marketing - Spanien (m|w|d)",
-      "company": "idealo internet GmbH",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin, Berlin, Deutschland",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T00:31:20.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/werkstudentin-content-marketing-spanien-mwd-berlin-466537",
-      "tags": [
-        "Career Starters"
-      ],
-      "description": "Als Teil unseres Teams erwarten dich viel Gestaltungsspielraum, ein internationales Arbeitsumfeld im Herzen Berlins und der ganz eigene idealo Spirit. Du möchte...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-werkstudentin-content-marketing-frankreich-mwd-berlin-37332",
-      "title": "Werkstudent:in Content Marketing - Frankreich (m|w|d)",
-      "company": "idealo internet GmbH",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin, Berlin, Deutschland",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T00:31:20.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/werkstudentin-content-marketing-frankreich-mwd-berlin-37332",
-      "tags": [
-        "Career Starters"
-      ],
-      "description": "Als Teil unseres Teams erwarten dich viel Gestaltungsspielraum, ein internationales Arbeitsumfeld im Herzen Berlins und der ganz eigene idealo Spirit. Du möchte...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-buchhalter-waiblingen-390349",
-      "title": "Senior Buchhalter (m/w/x)",
-      "company": "Rotzinger Group",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Waiblingen, Baden-Württemberg, Deutschland",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T00:31:19.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/rotzinger-group/senior-buchhalter-waiblingen-390349",
-      "tags": [
-        "Rotzinger PharmaPack"
-      ],
-      "description": "Zur Verstärkung unseres Finanzbereichs suchen wir Dich als erfahrenen Senior Buchhalter (m/w/d), der nicht nur fachlich sicher im Rechnungswesen ist, sondern au...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-projektmanager-instandhaltung-und-sanierung-konstanz-263059",
-      "title": "Projektmanager Instandhaltung und Sanierung (m/w/d)",
-      "company": "Immobetriebe Hausverwaltung GmbH",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Konstanz",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T22:01:25.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/immobetriebe-hausverwaltung-gmbh/projektmanager-instandhaltung-und-sanierung-konstanz-263059",
-      "tags": [
-        "Project Management"
-      ],
-      "description": "Sie kommen vom Bau oder aus dem Handwerk, erkennen auf den ersten Blick, ob eine Arbeit sauber ausgeführt ist, und wollen Maßnahmen nicht mehr selbst ausführen,...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-solutions-engineer-uas-aviation-munich-322073",
-      "title": "Solutions Engineer UAS / Aviation",
-      "company": "Auterion",
+      "id": "arbeit-senior-process-intelligence-supply-chain-transformation-consultant-manufacturing-production-munich-145205",
+      "title": "Senior Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production",
+      "company": "celonis",
       "company_logo": "",
       "category": "tech",
       "location": "Munich",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T21:55:16.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/auterion/solutions-engineer-uas-aviation-munich-322073",
+      "published_at": "2026-11-16T00:55:19.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-process-intelligence-supply-chain-transformation-consultant-manufacturing-production-munich-145205",
       "tags": [
-        "Engineering"
+        "Value Engineering"
       ],
-      "description": "&lt;p&gt;We’re looking for a Solutions Engineer UAS / Aviation who will play a pivotal role in the future of our company. Our Solutions Engineer will be respons...",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — w...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-product-manager-ai-products-agentic-hospitality-germany-426998",
-      "title": "Senior Product Manager, AI Products & Agentic Hospitality (f/m/d)",
-      "company": "Apaleo",
+      "id": "arbeit-senior-digital-transformation-process-optimisation-consultant-growth-and-scale-accounts-munich-279328",
+      "title": "Senior Digital Transformation & Process Optimisation Consultant - Growth and Scale Accounts",
+      "company": "celonis",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Munich",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-16T00:55:19.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-digital-transformation-process-optimisation-consultant-growth-and-scale-accounts-munich-279328",
+      "tags": [
+        "Value Engineering"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — w...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-technical-product-manager-germany-371222",
+      "title": "Technical Product Manager",
+      "company": "Bjak",
       "company_logo": "",
       "category": "tech",
       "location": "Germany",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T21:45:22.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/apaleo/senior-product-manager-ai-products-agentic-hospitality-germany-426998",
-      "tags": [],
-      "description": "About the role&nbsp;\n&nbsp;\nAt Apaleo, we're building the open, API-first property management platform for hospitality. With integrations across hundreds of app...",
+      "published_at": "2026-11-16T00:40:25.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-manager-germany-371222",
+      "tags": [
+        "Product"
+      ],
+      "description": "About BJAKThe original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in ...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-solutions-engineer-munich-465984",
-      "title": "Solutions Engineer",
-      "company": "True Talent Solutions Partners",
+      "id": "arbeit-entrepreneur-in-residence-berlin-392678",
+      "title": "Entrepreneur in Residence",
+      "company": "Bjak",
       "company_logo": "",
       "category": "tech",
-      "location": "Munich",
+      "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T21:40:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/solutions-engineer-munich-465984",
+      "published_at": "2026-11-16T00:40:24.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/entrepreneur-in-residence-berlin-392678",
       "tags": [
-        "Client Roles"
+        "Act CEO Office"
       ],
-      "description": "About the RoleJoin a team bringing digital tools to industrial research and development. You will lead technical pre-sales engagements, helping prospective cust...",
+      "description": "About ActThere are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build pro...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-verkauferin-werkstudent-bonn-319353",
+      "title": "Verkäuferin (m/w/d) - Werkstudent",
+      "company": "Gusti Leder GmbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Bonn, Nordrhein-Westfalen, Deutschland",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-16T00:31:31.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/gusti-leder-gmbh/verkauferin-werkstudent-bonn-319353",
+      "tags": [
+        "Stores"
+      ],
+      "description": "Willkommen bei Gusti Leder Stores GmbH 🌿Wir sind ein wachsendes Unternehmen mit einer klaren Mission: hochwertige, verantwortungsvoll produzierte Ledertaschen ...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-praktikum-finanzberatung-frankfurt-am-main-128214",
+      "title": "Praktikum Finanzberatung (m/w/d)",
+      "company": "PF-Agency",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Frankfurt am Main",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T23:00:35.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/pf-agency/praktikum-finanzberatung-frankfurt-am-main-128214",
+      "tags": [
+        "Private Banking"
+      ],
+      "description": "Deine Aufgaben im PraktikumWährend deines Praktikums erhältst du umfassende Einblicke in die verschiedenen Bereiche der Finanzberatung und übernimmst bereits fr...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-java-entwickler-product-engineer-fur-ai-assisted-development-du-bringst-ai-coding-ins-team-dortmund-489360",
+      "title": "Java Entwickler / Product Engineer für AI-Assisted Development → DU bringst AI-Coding ins Team *",
+      "company": "Ilias Vassiliou & Team / headhunter.digital / Recruiting für Digital, Sales, IT, KI, Automation",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Dortmund",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T22:30:35.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/java-entwickler-product-engineer-fur-ai-assisted-development-du-bringst-ai-coding-ins-team-dortmund-489360",
+      "tags": [
+        "Software Development"
+      ],
+      "description": "Hier schreibst du nicht nur Java – hier gestaltest du mit, wie das ganze Entwicklungsteam künftig mit KI Software baut.Für ein international führendes Publishin...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-remote-senior-infrastructure-solutions-engineer-316487",
+      "title": "Senior Infrastructure Solutions Engineer",
+      "company": "planetlabs",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Remote",
+      "type": "Remote",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T21:55:28.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-senior-infrastructure-solutions-engineer-316487",
+      "tags": [
+        "Infrastructure and Operations"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to Planet. We believe in using space to help life on Earth.&lt;/strong&gt;&lt;/p&gt;\n&...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-infrastructure-engineer-postgresql-dba-berlin-frankfurt-munich-228113",
+      "title": "Senior Infrastructure Engineer (PostgreSQL DBA)",
+      "company": "workato",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin; Frankfurt; Munich",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T21:55:25.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/workato/senior-infrastructure-engineer-postgresql-dba-berlin-frankfurt-munich-228113",
+      "tags": [
+        "Product & Engineering"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(8, 55, 99);&quot;&gt;&lt;strong&gt;About Workato&lt;/strong&gt;&lt;/span&gt...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-commercial-account-executive-koln-50972",
+      "title": "Commercial Account Executive",
+      "company": "Delinea",
+      "company_logo": "",
+      "category": "marketing",
+      "location": "Home Office (Germany)",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T21:40:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/delinea/commercial-account-executive-koln-50972",
+      "tags": [
+        "Sales"
+      ],
+      "description": "About Delinea:Delinea is the identity security platform that continuously controls what AI agents, humans and machines can do and for how long. It extends privi...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-remote-product-manager-growth-website-422416",
+      "title": "Product Manager - Growth & Website (m/f/d)",
+      "company": "Berlitz",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Germany Remote",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T21:40:12.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/berlitz/remote-product-manager-growth-website-422416",
+      "tags": [
+        "Product"
+      ],
+      "description": "We're building a new global Berlitz, and this is your opportunity to help shape it. Nearly 150 years of expertise, meeting the ambition and technology to power ...",
       "verified": true,
       "source": "Arbeitnow Verified"
     }
