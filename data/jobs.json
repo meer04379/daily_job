@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T04:49:51.629Z",
+  "updated_at": "2026-11-22T04:05:58.969Z",
   "total_count": 33,
   "jobs": [
     {
@@ -11,7 +11,7 @@
       "location": "Pan India / Central Govt Departments",
       "type": "Full Time (Govt)",
       "salary": "Pay Level 7 (₹44,900 - ₹1,42,400)",
-      "published_at": "2026-11-21T04:49:51.628Z",
+      "published_at": "2026-11-22T04:05:58.969Z",
       "url": "https://ssc.gov.in/",
       "tags": [
         "SSC CGL",
@@ -31,7 +31,7 @@
       "location": "All India Bank Branches",
       "type": "Full Time (Banking)",
       "salary": "Basic Pay ₹41,960 + DA, HRA, Perks",
-      "published_at": "2026-11-21T04:49:51.628Z",
+      "published_at": "2026-11-22T04:05:58.969Z",
       "url": "https://sbi.co.in/web/careers",
       "tags": [
         "Bank PO",
@@ -51,7 +51,7 @@
       "location": "Pan India Railway Zones",
       "type": "Govt Technical",
       "salary": "Level 6 CPC Matrix",
-      "published_at": "2026-11-21T04:49:51.628Z",
+      "published_at": "2026-11-22T04:05:58.969Z",
       "url": "https://indianrailways.gov.in/",
       "tags": [
         "RRB JE",
@@ -373,272 +373,274 @@
       "source": "Remotive Verified"
     },
     {
-      "id": "arbeit-frontend-engineer-berlin-143307",
-      "title": "Frontend Engineer (m/f/x)",
-      "company": "Goegmbh",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:55:17.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/goegmbh/frontend-engineer-berlin-143307",
-      "tags": [
-        "Development"
-      ],
-      "description": "&lt;p&gt;At go-e, we have been pursuing the development of our vision with passion and strength from the very beginning. We are moving in an area that is charac...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-partner-success-manager-technical-lead-german-speaking-428445",
-      "title": "Partner Success Manager, Technical Lead - German Speaking",
-      "company": "nice",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Europe/Global",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:55:14.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/nice/partner-success-manager-technical-lead-german-speaking-428445",
-      "tags": [
-        "GCO - Partners Mgmt"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At NiCE, we don’t limit our challenges. We challenge our limits. Always. We’re ambitious. We’re game changer...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-principal-ai-engineer-berlin-439680",
-      "title": "Principal AI Engineer (x/f/m)",
-      "company": "Doctolib",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:43:20.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/principal-ai-engineer-berlin-439680",
-      "tags": [
-        "AI"
-      ],
-      "description": "We are looking for a Principal AI Engineer to join the Practice Efficiency team at Doctolib.Your mission will be to define and deliver how AI transforms the dai...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-it-support-spezialist-telematikinfrastruktur-healthcare-it-apis-berlin-60362",
-      "title": "IT Support Spezialist - Telematikinfrastruktur & Healthcare IT/APIs(x/f/m)",
-      "company": "Doctolib",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:43:20.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/it-support-spezialist-telematikinfrastruktur-healthcare-it-apis-berlin-60362",
-      "tags": [
-        "Customer Services & Solutions"
-      ],
-      "description": "Gemeinsam gestalten wir die Gesundheitsversorgung der ZukunftDu hast ein starkes technisches Wissen und Lust, Dich tief in die deutsche Healthcare-IT einzuarbei...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-it-administrator-berlin-29019",
-      "title": "Senior IT Administrator (w/m/d)",
-      "company": "Stackfuel",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:43:20.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/stackfuel/senior-it-administrator-berlin-29019",
-      "tags": [
-        "System Administration"
-      ],
-      "description": "JobbeschreibungStackFuel ist seit Jahren einer der führenden Anbieter für Daten- und KI-Weiterbildung in Deutschland. Seit Anfang 2026 sind wir Teil von Multive...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-it-working-student-munich-224684",
-      "title": "IT Working Student",
-      "company": "Kertos",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Munich",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:43:19.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/kertos/it-working-student-munich-224684",
-      "tags": [
-        "Product & Tech"
-      ],
-      "description": "Compliance is what stands between a European company and its next enterprise deal. Kertos clears it. Information security, data protection, and AI management ru...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-techniker-garching-bei-munchen-140664",
-      "title": "Techniker (m/w/d)",
-      "company": "Rohlik",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Garching bei München, Germany",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:43:19.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/techniker-garching-bei-munchen-140664",
-      "tags": [
-        "Operations & Supply Chain"
-      ],
-      "description": "Rohlik wurde 2014 in der Tschechischen Republik gegründet und ist der europäische Marktführer im Bereich E-Grocery in Mitteleuropa. Das Unternehmen ist bereits ...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-qualitatsmitarbeiter-lebensmittel-bischofsheim-36999",
-      "title": "Qualitätsmitarbeiter Lebensmittel (m/w/d)",
-      "company": "Rohlik",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Bischofsheim bei Frankfurt, Germany",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:43:19.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/qualitatsmitarbeiter-lebensmittel-bischofsheim-36999",
-      "tags": [
-        "Operations & Supply Chain"
-      ],
-      "description": "Als Mitarbeiter in der Qualitätssicherung für Lebensmittel trägst du die Verantwortung für die kontinuierliche Sicherstellung der Produktqualität unseres Sortim...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-go-to-market-champion-gpu-ai-hamburg-447533",
-      "title": "Go-to-Market Champion (GPU & AI)",
-      "company": "Impossiblecloud",
+      "id": "arbeit-senior-account-manager-koln-north-rhine-westphalia-339796",
+      "title": "(Senior) Account Manager (m/w/d)",
+      "company": "Swissitsecuritygroup",
       "company_logo": "",
       "category": "marketing",
-      "location": "Hamburg",
+      "location": "Köln, North Rhine-Westphalia",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:26:46.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/impossiblecloud/go-to-market-champion-gpu-ai-hamburg-447533",
+      "published_at": "2026-11-22T00:55:37.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/swissitsecuritygroup/senior-account-manager-koln-north-rhine-westphalia-339796",
       "tags": [
         "Sales"
       ],
-      "description": "Group: Impossible Cloud / Impossible Cloud Network (ICN) \nFocus: Bridging Enterprise Storage &amp; Decentralized GPU Orchestration \n&nbsp;\nThe Mission\n&nbsp;\nIm...",
+      "description": "&lt;div&gt;\n&lt;p&gt;Willst Du mit Deiner Arbeit echten Impact leisten und aktiv an einer sicheren digitalen Zukunft mitbauen? Dann bist Du bei uns richtig. Den...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-office-management-working-student-munich-or-karlsruhe-175687",
-      "title": "Office Management Working Student",
-      "company": "Quantco ",
+      "id": "arbeit-senior-mechanical-engineer-parsdorf-bavaria-69004",
+      "title": "Senior Mechanical Engineer (f/m/d)",
+      "company": "isaraerospace",
       "company_logo": "",
       "category": "tech",
-      "location": "Munich or Karlsruhe",
+      "location": "Parsdorf, Bavaria",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:26:45.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantco/office-management-working-student-munich-or-karlsruhe-175687",
+      "published_at": "2026-11-22T00:55:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-mechanical-engineer-parsdorf-bavaria-69004",
       "tags": [
-        "Operations"
+        "Ground Systems"
       ],
-      "description": "We are looking for highly proactive and service-oriented Office Management Working Students to maintain the outstanding work environment in our offices in Munic...",
+      "description": "&lt;p class=&quot;p1&quot;&gt;&lt;strong&gt;Mission Brief&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;p2&quot;&gt;We deliver the half of the rocket that stays on...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-unternehmensberaterin-senior-consultant-dusseldorf-141766",
-      "title": "UnternehmensberaterIn - Senior Consultant - Dusseldorf",
-      "company": "Efficioconsulting",
+      "id": "arbeit-mes-process-and-system-engineer-parsdorf-bavaria-306994",
+      "title": "MES Process and System Engineer (m/f/d)",
+      "company": "isaraerospace",
       "company_logo": "",
       "category": "tech",
-      "location": "Dusseldorf",
+      "location": "Parsdorf, Bavaria",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:26:45.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/efficioconsulting/unternehmensberaterin-senior-consultant-dusseldorf-141766",
+      "published_at": "2026-11-22T00:55:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/mes-process-and-system-engineer-parsdorf-bavaria-306994",
       "tags": [
-        "Consulting Team"
+        "Production",
+        "Operations & Quality"
       ],
-      "description": "Bei Efficio sind wir mehr als nur eine Unternehmensberatung: Wir sind ein Team engagierter Expertinnen und Experten mit dem gemeinsamen Ziel, Einkaufs- und Supp...",
+      "description": "&lt;p&gt;&lt;strong&gt;Mission Brief&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Help build the digital manufacturing backbone we need to scale production and g...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-mendix-engineer-munich-76612",
-      "title": "Senior Mendix Engineer",
-      "company": "Mendix",
+      "id": "arbeit-chief-quality-inspector-ottobrunn-bavaria-289181",
+      "title": "Chief Quality  Inspector (m/f/d)",
+      "company": "isaraerospace",
       "company_logo": "",
       "category": "tech",
-      "location": "Munich",
+      "location": "Ottobrunn, Bavaria",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:26:42.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/mendix/senior-mendix-engineer-munich-76612",
+      "published_at": "2026-11-22T00:55:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/chief-quality-inspector-ottobrunn-bavaria-289181",
       "tags": [
-        "R&D"
+        "Production",
+        "Operations & Quality"
       ],
-      "description": "\nMendix – the leading low-code&nbsp;agentic&nbsp;enterprise&nbsp;platform:&nbsp;\nThe Mendix Platform uses visual&nbsp;modeling&nbsp;to abstract long-form coding...",
+      "description": "&lt;p&gt;&lt;strong&gt;Mission Brief&amp;nbsp;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Chief Quality Inspector is the independent authority responsible ...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-qualitatsmanagement-qualitatssicherung-specialist-remscheid-87669",
-      "title": "Qualitätsmanagement & Qualitätssicherung Specialist (m/w/d)",
-      "company": "Heaten Germany Gmbh",
+      "id": "arbeit-senior-warehouse-design-manager-all-genders-magdeburg-saxony-anhalt-399090",
+      "title": "Senior Warehouse Design Manager (all genders)",
+      "company": "hellofresh",
       "company_logo": "",
       "category": "tech",
-      "location": "Remscheid",
+      "location": "Magdeburg, Saxony-Anhalt",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:26:42.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/heaten-germany-gmbh/qualitatsmanagement-qualitatssicherung-specialist-remscheid-87669",
+      "published_at": "2026-11-22T00:55:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-warehouse-design-manager-all-genders-magdeburg-saxony-anhalt-399090",
       "tags": [
-        "Operations & Supply Chain"
+        "Supply Chain Management & Operations"
       ],
-      "description": "HEATEN entwickelt innovative Hochtemperatur-Wärmepumpen für industrielle Anwendungen und unterstützt Unternehmen dabei, ihre Prozesswärme nachhaltig und wirtsch...",
+      "description": "&lt;h2&gt;&lt;strong&gt;About the role: What&#39;s in the Box&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Are you passionate about turning operational challenges into pr...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-servicenow-solution-platform-architect-open-124588",
-      "title": "ServiceNow Solution / Platform Architect (m/f/d)",
-      "company": "Qualysoft",
+      "id": "arbeit-senior-project-manager-engineering-implementation-alle-genders-magdeburg-saxony-anhalt-58619",
+      "title": "Senior Project Manager Engineering & Implementation (alle genders)",
+      "company": "hellofresh",
       "company_logo": "",
       "category": "tech",
-      "location": "Open",
+      "location": "Magdeburg, Saxony-Anhalt",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:26:41.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/qualysoft/servicenow-solution-platform-architect-open-124588",
+      "published_at": "2026-11-22T00:55:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-project-manager-engineering-implementation-alle-genders-magdeburg-saxony-anhalt-58619",
       "tags": [
-        "Business Operations"
+        "Supply Chain Management & Operations"
       ],
-      "description": "\nFor a client in Germany, we are looking for an experienced ServiceNow Architect to own the target architecture of the ServiceNow platform. You will translate b...",
+      "description": "&lt;h2&gt;&lt;strong&gt;About the role: What&#39;s in the Box&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Are you passionate about turning operational challenges into pr...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-media-relations-manager-36392",
-      "title": "Senior Media Relations Manager (m/f/d)",
-      "company": "mewssystems",
+      "id": "arbeit-senior-lifecycle-marketing-manager-all-genders-berlin-berlin-395217",
+      "title": "Senior Lifecycle Marketing Manager (all genders)",
+      "company": "hellofresh",
       "company_logo": "",
       "category": "marketing",
-      "location": "Europe/Global",
+      "location": "Berlin, Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T00:55:15.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/mewssystems/senior-media-relations-manager-36392",
+      "published_at": "2026-11-22T00:55:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-lifecycle-marketing-manager-all-genders-berlin-berlin-395217",
       "tags": [
         "Marketing"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;Help make the world more hospitable &lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;The hospitality indus...",
+      "description": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;For our global Mature Customer Marketing team in Berlin, we are looking for a Senior Lifecyc...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-fsqa-manager-phf-all-genders-berlin-berlin-291816",
+      "title": "Senior FSQA Manager - PHF (all genders)",
+      "company": "hellofresh",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin, Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T00:55:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-fsqa-manager-phf-all-genders-berlin-berlin-291816",
+      "tags": [
+        "Food Safety and Quality"
+      ],
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;About The Team:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Are you passiona...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-associate-director-global-partnerships-all-genders-berlin-berlin-363094",
+      "title": "Associate Director, Global Partnerships (all genders)",
+      "company": "hellofresh",
+      "company_logo": "",
+      "category": "marketing",
+      "location": "Berlin, Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T00:55:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/associate-director-global-partnerships-all-genders-berlin-berlin-363094",
+      "tags": [
+        "Marketing"
+      ],
+      "description": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As the &lt;strong&gt;Associate Director of Global Partnerships&lt;/strong&gt;, you will own ...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-working-student-hardware-engineering-uas-propulsion-power-all-genders-438072",
+      "title": "Working Student – Hardware Engineering (UAS Propulsion & Power) (All Genders)",
+      "company": "Skdse",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Europe/Global",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T00:55:22.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/working-student-hardware-engineering-uas-propulsion-power-all-genders-438072",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-radar-navigation-engineer-all-genders-munich-bavaria-300515",
+      "title": "Senior Radar Navigation Engineer (All Genders)",
+      "company": "Skdse",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Munich, Bavaria",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T00:55:22.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/senior-radar-navigation-engineer-all-genders-munich-bavaria-300515",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-flight-dynamics-integration-engineer-all-genders-367591",
+      "title": "Senior Flight Dynamics Integration Engineer (All Genders)",
+      "company": "Skdse",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Europe/Global",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T00:55:22.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/senior-flight-dynamics-integration-engineer-all-genders-367591",
+      "tags": [
+        "OWE-LR"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-configuration-manager-all-genders-munich-bavaria-253956",
+      "title": "Senior Configuration Manager (All Genders)",
+      "company": "Skdse",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Munich, Bavaria",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T00:55:22.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/senior-configuration-manager-all-genders-munich-bavaria-253956",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-ai-solutions-engineer-all-genders-berlin-300151",
+      "title": "AI Solutions Engineer (All genders)",
+      "company": "Skdse",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T00:55:22.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/ai-solutions-engineer-all-genders-berlin-300151",
+      "tags": [
+        "Corporate IT"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-ai-solutions-engineer-all-genders-munich-bavaria-147383",
+      "title": "AI Solutions Engineer (All genders)",
+      "company": "Skdse",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Munich, Bavaria",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T00:55:22.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/ai-solutions-engineer-all-genders-munich-bavaria-147383",
+      "tags": [
+        "Corporate IT"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge...",
       "verified": true,
       "source": "Arbeitnow Verified"
     }
