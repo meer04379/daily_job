@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T04:05:58.969Z",
+  "updated_at": "2026-11-23T04:47:13.215Z",
   "total_count": 33,
   "jobs": [
     {
@@ -11,7 +11,7 @@
       "location": "Pan India / Central Govt Departments",
       "type": "Full Time (Govt)",
       "salary": "Pay Level 7 (₹44,900 - ₹1,42,400)",
-      "published_at": "2026-11-22T04:05:58.969Z",
+      "published_at": "2026-11-23T04:47:13.214Z",
       "url": "https://ssc.gov.in/",
       "tags": [
         "SSC CGL",
@@ -31,7 +31,7 @@
       "location": "All India Bank Branches",
       "type": "Full Time (Banking)",
       "salary": "Basic Pay ₹41,960 + DA, HRA, Perks",
-      "published_at": "2026-11-22T04:05:58.969Z",
+      "published_at": "2026-11-23T04:47:13.214Z",
       "url": "https://sbi.co.in/web/careers",
       "tags": [
         "Bank PO",
@@ -51,7 +51,7 @@
       "location": "Pan India Railway Zones",
       "type": "Govt Technical",
       "salary": "Level 6 CPC Matrix",
-      "published_at": "2026-11-22T04:05:58.969Z",
+      "published_at": "2026-11-23T04:47:13.214Z",
       "url": "https://indianrailways.gov.in/",
       "tags": [
         "RRB JE",
@@ -373,274 +373,271 @@
       "source": "Remotive Verified"
     },
     {
-      "id": "arbeit-senior-account-manager-koln-north-rhine-westphalia-339796",
-      "title": "(Senior) Account Manager (m/w/d)",
-      "company": "Swissitsecuritygroup",
+      "id": "arbeit-warehouse-specialist-munich-351393",
+      "title": "Warehouse Specialist",
+      "company": "Proxima Fusion GmbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Munich",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-23T03:42:54.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/warehouse-specialist-munich-351393",
+      "tags": [
+        "Business Operations"
+      ],
+      "description": "WHO WE ARE Proxima Fusion is Europe’s fastest-growing fusion company and the continent’s best-funded fusion player, as well as the first spin-out from the Max P...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-werkstudent-it-system-management-it-business-33100-215176",
+      "title": "Werkstudent IT-System-Management / IT & Business (m/w/d)",
+      "company": "OctoGate IT Security Systems GmbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "33100, Nordrhein-Westfalen, Deutschland",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-23T03:31:35.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/octogate-it-security-systems-gmbh/werkstudent-it-system-management-it-business-33100-215176",
+      "tags": [
+        "Entwicklung"
+      ],
+      "description": "🚀 Werde Teil von OctogateDu willst dein Studium nicht nur theoretisch absolvieren, sondern echte Praxiserfahrung sammeln und verstehen, wie IT und Business zus...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-remote-hands-on-engineering-manager-c-vue-6698",
+      "title": "Hands-on Engineering Manager (C#/Vue)",
+      "company": "Miaplaza",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Remote job",
+      "type": "Remote",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-23T03:31:35.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-c-vue-6698",
+      "tags": [
+        "Remote"
+      ],
+      "description": "Location: 100% remote (EMEA + South America)Classification: Full-timePay Range: €82,000–140,000; determined by several factors, including locationMiaplaza is lo...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-it-systems-platform-engineer-siegen-142049",
+      "title": "IT Systems & Platform Engineer (f/m/d)",
+      "company": "eleQtron GmbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Siegen, Nordrhein-Westfalen, Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-23T03:31:34.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/eleqtron-gmbh/it-systems-platform-engineer-siegen-142049",
+      "tags": [
+        "IT Support & Security"
+      ],
+      "description": "eleQtron develops and operates full-stack quantum computers based on trapped-ion technology. Quantum computing is a new computing paradigm rapidly approaching c...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-71768",
+      "title": "Senior CRM & Lifecycle Analyst (B2C) – Marketing Automation (all genders)",
+      "company": "Foodji GmbH",
       "company_logo": "",
       "category": "marketing",
-      "location": "Köln, North Rhine-Westphalia",
+      "location": "München, Bayern, Deutschland",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T00:55:37.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/swissitsecuritygroup/senior-account-manager-koln-north-rhine-westphalia-339796",
-      "tags": [
-        "Sales"
-      ],
-      "description": "&lt;div&gt;\n&lt;p&gt;Willst Du mit Deiner Arbeit echten Impact leisten und aktiv an einer sicheren digitalen Zukunft mitbauen? Dann bist Du bei uns richtig. Den...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-mechanical-engineer-parsdorf-bavaria-69004",
-      "title": "Senior Mechanical Engineer (f/m/d)",
-      "company": "isaraerospace",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Parsdorf, Bavaria",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T00:55:23.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-mechanical-engineer-parsdorf-bavaria-69004",
-      "tags": [
-        "Ground Systems"
-      ],
-      "description": "&lt;p class=&quot;p1&quot;&gt;&lt;strong&gt;Mission Brief&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;p2&quot;&gt;We deliver the half of the rocket that stays on...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-mes-process-and-system-engineer-parsdorf-bavaria-306994",
-      "title": "MES Process and System Engineer (m/f/d)",
-      "company": "isaraerospace",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Parsdorf, Bavaria",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T00:55:23.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/mes-process-and-system-engineer-parsdorf-bavaria-306994",
-      "tags": [
-        "Production",
-        "Operations & Quality"
-      ],
-      "description": "&lt;p&gt;&lt;strong&gt;Mission Brief&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Help build the digital manufacturing backbone we need to scale production and g...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-chief-quality-inspector-ottobrunn-bavaria-289181",
-      "title": "Chief Quality  Inspector (m/f/d)",
-      "company": "isaraerospace",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Ottobrunn, Bavaria",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T00:55:23.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/chief-quality-inspector-ottobrunn-bavaria-289181",
-      "tags": [
-        "Production",
-        "Operations & Quality"
-      ],
-      "description": "&lt;p&gt;&lt;strong&gt;Mission Brief&amp;nbsp;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Chief Quality Inspector is the independent authority responsible ...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-warehouse-design-manager-all-genders-magdeburg-saxony-anhalt-399090",
-      "title": "Senior Warehouse Design Manager (all genders)",
-      "company": "hellofresh",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Magdeburg, Saxony-Anhalt",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T00:55:23.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-warehouse-design-manager-all-genders-magdeburg-saxony-anhalt-399090",
-      "tags": [
-        "Supply Chain Management & Operations"
-      ],
-      "description": "&lt;h2&gt;&lt;strong&gt;About the role: What&#39;s in the Box&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Are you passionate about turning operational challenges into pr...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-project-manager-engineering-implementation-alle-genders-magdeburg-saxony-anhalt-58619",
-      "title": "Senior Project Manager Engineering & Implementation (alle genders)",
-      "company": "hellofresh",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Magdeburg, Saxony-Anhalt",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T00:55:23.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-project-manager-engineering-implementation-alle-genders-magdeburg-saxony-anhalt-58619",
-      "tags": [
-        "Supply Chain Management & Operations"
-      ],
-      "description": "&lt;h2&gt;&lt;strong&gt;About the role: What&#39;s in the Box&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Are you passionate about turning operational challenges into pr...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-lifecycle-marketing-manager-all-genders-berlin-berlin-395217",
-      "title": "Senior Lifecycle Marketing Manager (all genders)",
-      "company": "hellofresh",
-      "company_logo": "",
-      "category": "marketing",
-      "location": "Berlin, Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T00:55:23.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-lifecycle-marketing-manager-all-genders-berlin-berlin-395217",
+      "published_at": "2026-11-23T03:31:33.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-71768",
       "tags": [
         "Marketing"
       ],
-      "description": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;For our global Mature Customer Marketing team in Berlin, we are looking for a Senior Lifecyc...",
+      "description": "Analytics first: Du baust CRM und Lifecycle Marketing bei Foodji komplett neu auf, vom analytischen Fundament bis zur Integration der Systeme – datengetrieben, ...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-fsqa-manager-phf-all-genders-berlin-berlin-291816",
-      "title": "Senior FSQA Manager - PHF (all genders)",
-      "company": "hellofresh",
+      "id": "arbeit-sap-transportation-management-solution-architect-heidelberg-germany-319375",
+      "title": "SAP Transportation Management Solution Architect (f/m/d)",
+      "company": "Westernacher",
       "company_logo": "",
       "category": "tech",
-      "location": "Berlin, Berlin",
+      "location": "Heidelberg, Germany",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T00:55:23.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-fsqa-manager-phf-all-genders-berlin-berlin-291816",
+      "published_at": "2026-11-23T03:26:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/westernacher/sap-transportation-management-solution-architect-heidelberg-germany-319375",
       "tags": [
-        "Food Safety and Quality"
+        "Europe"
       ],
-      "description": "&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;About The Team:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Are you passiona...",
+      "description": "\nWesternacher Consulting is looking for an experienced SAP Transportation Management Solution Architect to join our consulting team in Germany. In this role, yo...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-associate-director-global-partnerships-all-genders-berlin-berlin-363094",
-      "title": "Associate Director, Global Partnerships (all genders)",
-      "company": "hellofresh",
+      "id": "arbeit-finance-director-germany-458238",
+      "title": "FINANCE DIRECTOR (m/w/d)",
+      "company": "Valpeo.com",
       "company_logo": "",
-      "category": "marketing",
-      "location": "Berlin, Berlin",
+      "category": "finance",
+      "location": "Germany",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T00:55:23.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/associate-director-global-partnerships-all-genders-berlin-berlin-363094",
+      "published_at": "2026-11-23T03:26:17.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/valpeocom/finance-director-germany-458238",
       "tags": [
-        "Marketing"
+        "Finance Management"
       ],
-      "description": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As the &lt;strong&gt;Associate Director of Global Partnerships&lt;/strong&gt;, you will own ...",
+      "description": "\nPerspektive CFO | FINANCE &amp; CONTROLLING | TRANSFORMATION | NRW\n&nbsp;\nDAS UNTERNEHMEN\nUnser Mandant ist eine international tätige Unternehmensgruppe im Ber...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-working-student-hardware-engineering-uas-propulsion-power-all-genders-438072",
-      "title": "Working Student – Hardware Engineering (UAS Propulsion & Power) (All Genders)",
-      "company": "Skdse",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Europe/Global",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T00:55:22.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/working-student-hardware-engineering-uas-propulsion-power-all-genders-438072",
-      "tags": [
-        "Engineering"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-radar-navigation-engineer-all-genders-munich-bavaria-300515",
-      "title": "Senior Radar Navigation Engineer (All Genders)",
-      "company": "Skdse",
+      "id": "arbeit-senior-aws-consultant-garching-bei-munchen-bayern-134293",
+      "title": "Senior AWS Consultant (m/w/d)",
+      "company": "Skaylink",
       "company_logo": "",
       "category": "tech",
-      "location": "Munich, Bavaria",
+      "location": "Garching bei München, Bayern",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T00:55:22.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/senior-radar-navigation-engineer-all-genders-munich-bavaria-300515",
+      "published_at": "2026-11-23T03:26:17.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/skaylink/senior-aws-consultant-garching-bei-munchen-bayern-134293",
       "tags": [
-        "Engineering"
+        "AWS Professional Services"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge...",
+      "description": "\nDu möchtest Unternehmen auf ihrem Weg in die Cloud begleiten und dabei moderne AWS-Lösungen mit echtem Mehrwert entwickeln? Als Senior Consultant AWS (m/w/d) u...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-flight-dynamics-integration-engineer-all-genders-367591",
-      "title": "Senior Flight Dynamics Integration Engineer (All Genders)",
-      "company": "Skdse",
+      "id": "arbeit-sw-engineering-lead-munich-114223",
+      "title": "SW Engineering Lead",
+      "company": "Tulip Interfaces",
       "company_logo": "",
       "category": "tech",
-      "location": "Europe/Global",
+      "location": "Munich, Bavaria, Germany",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T00:55:22.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/senior-flight-dynamics-integration-engineer-all-genders-367591",
-      "tags": [
-        "OWE-LR"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge...",
+      "published_at": "2026-11-23T00:46:00.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/tulip-interfaces/sw-engineering-lead-munich-114223",
+      "tags": [],
+      "description": "This role is located in Munich, Germany. TULIP is a hybrid work environment and we are in the office 3+ days/per week.\nAbout TULIP\nTULIP is the frontline operat...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-configuration-manager-all-genders-munich-bavaria-253956",
-      "title": "Senior Configuration Manager (All Genders)",
-      "company": "Skdse",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Munich, Bavaria",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T00:55:22.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/senior-configuration-manager-all-genders-munich-bavaria-253956",
-      "tags": [
-        "Engineering"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-ai-solutions-engineer-all-genders-berlin-300151",
-      "title": "AI Solutions Engineer (All genders)",
-      "company": "Skdse",
+      "id": "arbeit-events-associate-berlin-232079",
+      "title": "Events Associate",
+      "company": "Prior Labs",
       "company_logo": "",
       "category": "tech",
       "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T00:55:22.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/ai-solutions-engineer-all-genders-berlin-300151",
+      "published_at": "2026-11-23T00:40:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/prior-labs/events-associate-berlin-232079",
       "tags": [
-        "Corporate IT"
+        "Go-to-Market"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge...",
+      "description": "Who we areFoundation models transformed text and images. Structured data - the largest and most consequential data format in the world - stayed untouched, until...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-ai-solutions-engineer-all-genders-munich-bavaria-147383",
-      "title": "AI Solutions Engineer (All genders)",
-      "company": "Skdse",
+      "id": "arbeit-graduate-sales-associate-berlin-444368",
+      "title": "Graduate Sales Associate (f/m/d)",
+      "company": "Moss",
       "company_logo": "",
       "category": "tech",
-      "location": "Munich, Bavaria",
+      "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T00:55:22.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/ai-solutions-engineer-all-genders-munich-bavaria-147383",
+      "published_at": "2026-11-23T00:40:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/moss/graduate-sales-associate-berlin-444368",
       "tags": [
-        "Corporate IT"
+        "Commercial"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge...",
+      "description": "At Moss, we give finance professionals the power to automate their day-to-day and make forward-thinking decisions.Our culture is what makes that possible: we pl...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-business-development-representative-berlin-340354",
+      "title": "Business Development Representative (f/m/d)",
+      "company": "Moss",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-23T00:40:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/moss/business-development-representative-berlin-340354",
+      "tags": [
+        "Commercial"
+      ],
+      "description": "At Moss, we give finance professionals the power to automate their day-to-day and make forward-thinking decisions.Our culture is what makes that possible: we pl...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-technical-project-manager-dach-munich-119305",
+      "title": "Technical Project Manager - Dach (m/f/d)",
+      "company": "Tandem Health",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Munich",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-23T00:40:10.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/tandem-health/technical-project-manager-dach-munich-119305",
+      "tags": [
+        "Product & Engineering"
+      ],
+      "description": "Build something monumental for Healthcare!At Tandem Health we’re reimagining healthcare by putting clinicians first. Our platform - designed by clinicians, for ...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-solution-architect-gilching-15151",
+      "title": "Solution Architect (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Gilching, Bayern, Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-23T00:31:21.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/solution-architect-gilching-15151",
+      "tags": [
+        "Customer Success",
+        "Support & Training"
+      ],
+      "description": "As a Solution Architect, you will drive the development of integrated system designs for our unmanned platforms used in demanding defense and security environme...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-group-master-data-manager-customers-dusseldorf-280263",
+      "title": "Group Master Data Manager Customers",
+      "company": "Intersnack IT KG",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Düsseldorf, Nordrhein-Westfalen, Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-23T00:31:19.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/intersnack-it-kg/group-master-data-manager-customers-dusseldorf-280263",
+      "tags": [
+        "Information Management"
+      ],
+      "description": "We want you to grow with us:We are strengthening our Information Management function. As our next Group Master Data Manager Customers, you will lead the custome...",
       "verified": true,
       "source": "Arbeitnow Verified"
     }
